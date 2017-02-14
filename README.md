@@ -1,11 +1,8 @@
 ## Xi Yang (楊　溪)
 
-Ph.D. Candidate
-
+Ph.D. Candidate  
 Konno Lab.
-
 Iwate University
-
 yangxi(AT)lk.cis.iwate-u.ac.jp
 
 ### Biography
