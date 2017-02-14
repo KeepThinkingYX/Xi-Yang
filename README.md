@@ -1,4 +1,4 @@
-## Xi Yang (楊　溪)
+## Xi Yang (楊 溪)
 
 Ph.D. Candidate  
 Konno Lab.  
