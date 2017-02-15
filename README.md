@@ -1,6 +1,7 @@
 # Xi Yang (楊 溪)
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/XiYang.JPG)  
+![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/IMG_1305.JPG)  
 Ph.D. Candidate  
 [KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/)  
 Iwate University  
