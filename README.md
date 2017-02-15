@@ -43,6 +43,10 @@ My research interests are in the field of computer graphics technologies applied
 
 ## Awards
 
+- 平成28年度, 岩手大学学長賞
+- NICOGRAPH 2016, 優秀論文賞
+- 平成26年度, 岩手大学学長賞
+- NICOGRAPH 2014, 優秀論文賞
 - 豊嶋宏太，森本由宇，佐々木尭，*楊渓*：“Digital Planisphere”，アート＆テクノロジー東北２０１４，審査員特別賞，6月28日，2014.
 - FREESPACE team: “ActivityAnalyse”，一等奖，西北农林科技大学第六届软件设计大赛，2011.
 
