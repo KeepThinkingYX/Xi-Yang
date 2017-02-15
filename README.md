@@ -1,25 +1,35 @@
-## Xi Yang (楊 溪)
+# Xi Yang (楊 溪)
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/yangxi.JPG)
 
 Ph.D. Candidate  
-[Konno Lab.](http://gmhost.lk.cis.iwate-u.ac.jp/)
+[KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/)
 Iwate University  
-yangxi(AT)lk.cis.iwate-u.ac.jp
+Email yangxi(AT)lk.cis.iwate-u.ac.jp, earthyang(AT)sina.com
 
-### Biography
+## Biography
 
-BE degree in College of Information Engineering from Northwest A&F University in 2012. He received the ME degree in Faculty of Engineering
-at Iwate University.
+BE degree in College of Information Engineering from Northwest A&F University, China in 2012  
+ME degree in Faculty of Engineering from Iwate University, Japan in 2015
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Research Interests
 
-### Research Projects
+* geometric modeling 
+* computer graphics
+
+Now my research focus on
+
+## Research Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KeepThinkingYX/Xi-Yang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Publications
+## Publications
 
-### Support or Contact
+### Journal
+### International Conference
+### Domestic Conference
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Links
+
+[Xi Yang - cnblogs](http://www.cnblogs.com/yangxi/)
+[KeepThinkingYX - Github](http://keepthinkingyx.github.io/)
