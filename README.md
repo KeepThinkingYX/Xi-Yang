@@ -1,6 +1,6 @@
 ## Xi Yang (楊 溪)
 
-![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/IMG_1305.JPG)
+![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/IMG_1305.JP)
 
 Ph.D. Candidate  
 Konno Lab.  
