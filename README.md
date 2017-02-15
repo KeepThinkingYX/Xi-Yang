@@ -9,20 +9,8 @@ yangxi(AT)lk.cis.iwate-u.ac.jp
 
 ### Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+BE degree in College of Information Engineering from Northwest A&F University in 2012. He received the ME degree in Faculty of Engineering
+at Iwate University.
 
 **Bold** and _Italic_ and `Code` text
 
