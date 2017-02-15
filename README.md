@@ -1,16 +1,15 @@
 # Xi Yang (楊 溪)
 
-![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/XiYang.JPG)
-
+![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/XiYang.JPG)  
 Ph.D. Candidate  
 [KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/)  
 Iwate University  
-Email yangxi(AT)lk.cis.iwate-u.ac.jp, earthyang(AT)sina.com
+Email yangxi(AT)lk.cis.iwate-u.ac.jp, earthyang(AT)sina.com  
 
 ## Biography
 
 BE degree in College of Information Engineering from Northwest A&F University, China in 2012  
-ME degree in Faculty of Engineering from Iwate University, Japan in 2015
+ME degree in Faculty of Engineering from Iwate University, Japan in 2015  
 
 ## Research Interests
 
