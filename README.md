@@ -3,7 +3,7 @@
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/yangxi.JPG)
 
 Ph.D. Candidate  
-[KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/)
+[KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/)  
 Iwate University  
 Email yangxi(AT)lk.cis.iwate-u.ac.jp, earthyang(AT)sina.com
 
@@ -26,7 +26,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ## Publications
 
 ### Journal
+
 ### International Conference
+
 ### Domestic Conference
 
 ## Links
