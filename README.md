@@ -55,3 +55,5 @@ My research interests are in the field of computer graphics technologies applied
 
 [Xi Yang - cnblogs](http://www.cnblogs.com/yangxi/)  
 [KeepThinkingYX - Github](http://keepthinkingyx.github.io/)
+
+![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/1487158882.png)
