@@ -2,7 +2,7 @@
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)  
 
-Ph.D Candidate  
+<big>Ph.D Candidate</big>  
 [KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/)  
 Iwate University  
 
