@@ -3,7 +3,7 @@
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/blob/master/yangxi.JPG)
 
 Ph.D. Candidate  
-Konno Lab.  
+[Konno Lab.](http://gmhost.lk.cis.iwate-u.ac.jp/)
 Iwate University  
 yangxi(AT)lk.cis.iwate-u.ac.jp
 
@@ -11,11 +11,6 @@ yangxi(AT)lk.cis.iwate-u.ac.jp
 
 BE degree in College of Information Engineering from Northwest A&F University in 2012. He received the ME degree in Faculty of Engineering
 at Iwate University.
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
