@@ -34,7 +34,7 @@ My research interests are in the field of computer graphics technologies applied
 
 ### International Conference
 
-- **X. Yang**, K. Matsuyama, K.Konno: “Interactive Visualization of Assembly Instruction for Stone Tools Restoration”, The 10th IEEE Pacific Visualization Symposium (PacificVis2017), accepted.
+- **X. Yang**, K. Matsuyama, K.Konno: “Interactive visualization of assembly instruction for stone tools restoration”, In Pacific Visualization Symposium (PacificVis), 2017 IEEE (pp. 270-274). IEEE.
 
 ### Domestic Conference
 
