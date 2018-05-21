@@ -2,25 +2,26 @@
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)  
 
-<big>Ph.D Candidate</big>  
+<big>Project Assistant Professor</big>  
 
-[KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/)  
-Iwate University  
+[IGARASHI Laboratory](http://www-ui.is.s.u-tokyo.ac.jp/)  
+Tokyo University  
 
-Email: yangxi(AT)lk.cis.iwate-u.ac.jp, earthyangxi(AT)sina.com  
+Email: earthyangxi(AT)sina.com  
 
 ## Education
 
+Ph.D in Faculty of Engineering from Iwate University, Japan in 2018
 ME degree in Faculty of Engineering from Iwate University, Japan in 2015  
 BE degree in College of Information Engineering from Northwest A&F University, China in 2012  
 
-## Research Interests
+; ## Research Interests
 
-My research interests are in the field of computer graphics technologies applied to cultural heritage and archaeology.
+; My research interests are in the field of computer graphics technologies applied to cultural heritage and archaeology.
 
-## Research Projects
+; ## Research Projects
 
-遺物計測データに基づく複数遺跡間の関係調査支援技術の研究開発
+; 遺物計測データに基づく複数遺跡間の関係調査支援技術の研究開発
 
 ## Publications
 
