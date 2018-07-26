@@ -4,7 +4,7 @@
 
 <big>Project Assistant Professor</big>  
 [IGARASHI Laboratory](http://www-ui.is.s.u-tokyo.ac.jp/)  
-Tokyo University  
+The University of Tokyo   
 
 Email: earthyangxi(AT)sina.com  
 
