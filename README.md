@@ -1,6 +1,6 @@
 # Xi Yang (楊 溪)
 
-![image](index/XiYang.JPG)
+![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
 <big>Project Assistant Professor</big>  
 [IGARASHI Laboratory](http://www-ui.is.s.u-tokyo.ac.jp/)  
