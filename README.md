@@ -10,15 +10,15 @@ Email: earthyangxi(AT)sina.com
 
 ## Education
 
-Ph.D in Faculty of Engineering from Iwate University, Japan in 2018
+Ph.D in Faculty of Engineering from Iwate University, Japan in 2018  
 ME degree in Faculty of Engineering from Iwate University, Japan in 2015  
 BE degree in College of Information Engineering from Northwest A&F University, China in 2012  
 
 ## Research Interests
 
-Computer graphics
-Human–computer interaction
-Deep learning
+Computer graphics  
+Human–computer interaction  
+Deep learning  
 
 ## Publications
 
