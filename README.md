@@ -13,6 +13,7 @@ Email: earthyangxi(AT)sina.com
 [KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/index.html)  
 Ph.D in Faculty of Engineering from Iwate University, Japan in 2018  
 ME degree in Faculty of Engineering from Iwate University, Japan in 2015  
+[Zhiyi Zhang](http://cie.nwsuaf.edu.cn/szdw/js/2008118167/index.htm)  
 BE degree in College of Information Engineering from Northwest A&F University, China in 2012  
 
 ## Research Interests
