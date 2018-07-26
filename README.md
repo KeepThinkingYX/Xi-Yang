@@ -71,3 +71,7 @@ pp.1-8, (2017).
 ## Links
 
 [Xi Yang - cnblogs](http://www.cnblogs.com/yangxi/)  
+[Xi Yang's Notebook](https://earthyangxi.github.io/)  
+
+![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/1487158882.png)
+
