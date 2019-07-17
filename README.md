@@ -1,8 +1,6 @@
 # Xi Yang (楊 溪)
 
-## CV
-
-[CV](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/cv.pdf  " ")
+## [CV](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/cv.pdf  " ")
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
