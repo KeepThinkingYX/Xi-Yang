@@ -22,7 +22,7 @@ Computer graphics
 Human–computer interaction  
 Deep learning  
 
-## Publications
+[//]: ## Publications
 
 ### Journal
 
