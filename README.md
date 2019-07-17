@@ -1,5 +1,7 @@
 # Xi Yang (楊 溪)
 
+[CV](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/cv.pdf  " ")
+
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
 <big>Project Assistant Professor</big>  
