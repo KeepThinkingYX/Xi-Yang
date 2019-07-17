@@ -1,5 +1,7 @@
 # Xi Yang (楊 溪)
 
+## CV
+
 [CV](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/cv.pdf  " ")
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
@@ -26,7 +28,9 @@ Deep learning
 
 ## Projects
 
-## Publications
+todo
+
+[](## Publications
 
 ### Journal
 
@@ -62,7 +66,7 @@ pp.1-8, (2017).
 - **X. Yang**, K. Matsuyama, K. Konno, Y. Tokuyama: “A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature”, *NICOGRAPH 2014*, pp.9-16, 優秀論文賞，11 月 2-4 日，2014．
 
 - **楊渓**，松山克胤，今野晃市：“曲率に基づくグループ化による計測点群の軽量化”, *平成 25 年度第４回 芸術科学会東北支部研究会*，3 月 29 日，2014．
-
+)
 ## Awards
 
 - 平成28年度, **岩手大学学長賞**
