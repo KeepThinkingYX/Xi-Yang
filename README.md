@@ -32,6 +32,7 @@ Deep learning
 <br>
 <br>
 <br>
+<br>
 
 <img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
 
@@ -41,11 +42,13 @@ Deep learning
 <br>
 <br>
 <br>
+<br>
 
-<img src="pic/re1.jpg" alt="image" align="left" width="75"/>
-<img src="pic/re11.jpg" alt="image" align="left" width="75"/>
+<img src="pic/re1.jpg" alt="image" align="left" width="70"/>
+<img src="pic/re11.jpg" alt="image" align="left" width="70"/>
 
 [Matching Lithic Materials]()  
+<br>
 <br>
 <br>
 <br>
@@ -53,6 +56,7 @@ Deep learning
 <img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
 
 [Point Cloud Simplification]()  
+<br>
 <br>
 <br>
 <br>
