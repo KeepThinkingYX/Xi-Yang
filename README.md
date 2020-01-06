@@ -26,11 +26,9 @@ Deep learning
 
 ## Projects
 
-<img src="cvprw2019/image.png" alt="image" align="left" width="300"/>
+<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
 [Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
-<br>
-<br>
 <br>
 <br>
 <br>
