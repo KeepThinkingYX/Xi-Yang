@@ -40,14 +40,15 @@ Deep learning
 <br>
 <br>
 
-<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
+<img src="pic/simplification.jpg" alt="image" align="left" width="75"/>
+<img src="pic/simplification.jpg" alt="image" align="left" width="75"/>
 
 [Matching Lithic Materials]()  
 <br>
 <br>
 <br>
 
-<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
+<img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
 
 [Point Cloud Simplification]()  
 <br>
