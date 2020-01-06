@@ -33,7 +33,7 @@ Deep learning
 <br>
 <br>
 
-<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
+<img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
 
 [Visualization of Lithic Materials]()  
 <br>
