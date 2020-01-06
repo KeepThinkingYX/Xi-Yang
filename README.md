@@ -30,8 +30,6 @@ Deep learning
 
 [Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
 <br>
-<br>
-<br>
 
 ## Publications
 
