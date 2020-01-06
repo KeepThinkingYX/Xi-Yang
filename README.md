@@ -35,21 +35,21 @@ Deep learning
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
-[Visualization of Lithic Materials](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+[Visualization of Lithic Materials]()  
 <br>
 <br>
 <br>
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
-[Matching Lithic Materials](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+[Matching Lithic Materials]()  
 <br>
 <br>
 <br>
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
-[Point Cloud Simplification](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+[Point Cloud Simplification]()  
 <br>
 <br>
 <br>
