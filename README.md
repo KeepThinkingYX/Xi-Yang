@@ -26,7 +26,7 @@ Deep learning
 
 ## Projects
 
-todo
+[Directing DNNs Attention for Facial Attribution Classification usingGradient-weighted Class Activation Mapping](cvprw2019/pub.html)  
 
 <!--## Publications
 
