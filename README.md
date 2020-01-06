@@ -28,7 +28,25 @@ Deep learning
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
-[Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+[HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+<br>
+<br>
+
+<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
+
+[Visualization of Lithic Materials](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+<br>
+<br>
+
+<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
+
+[Matching Lithic Materials](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+<br>
+<br>
+
+<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
+
+[Point Cloud Simplification](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
 <br>
 <br>
 
