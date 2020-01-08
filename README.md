@@ -26,6 +26,11 @@ Deep learning
 
 ## Projects
 
+[3D Techniques for Medicine]() (coming soon!)
+<br>
+<br>
+<br>
+
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
 [HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
