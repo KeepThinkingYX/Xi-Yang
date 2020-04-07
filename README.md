@@ -26,7 +26,9 @@ Deep learning
 
 ## Projects
 
-[3D Techniques for Medicine]() (coming soon!)
+<img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
+
+[3D Techniques for Medicine](https://github.com/intra3d2019/IntrA)
 <br>
 <br>
 <br>
