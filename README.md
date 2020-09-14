@@ -1,6 +1,6 @@
 # Xi Yang (楊 溪)
 
-## [CV](pic/cv.pdf  " ")
+## [CV pdf](pic/cv.pdf  " ")
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
@@ -61,17 +61,13 @@ In CVPR Workshops (2019) </sub>
 [Matching Lithic Materials]()  
 
 <img src="pic/re0.jpg" alt="image" align="left" width="70"/>
-<img src="pic/re0.jpg" alt="image" align="left" width="70"/>
-<br>
-<br>
-<br>
-<br>
-<img src="pic/re1.jpg" alt="image" align="left" width="70"/>
-<img src="pic/re11.jpg" alt="image" align="left" width="70"/>
+<img src="pic/re00.jpg" alt="image" align="left" width="70"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
   Eurographics Workshop on Graphics and cultural Heritage (GCH 017) </sub>  
 <br>
+<img src="pic/re1.jpg" alt="image" align="left" width="70"/>
+<img src="pic/re11.jpg" alt="image" align="left" width="70"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
   The Journal of Art and Science (2016)</sub>
