@@ -65,7 +65,6 @@ In CVPR Workshops (2019) </sub>
   <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
   Eurographics Workshop on Graphics and cultural Heritage (GCH 017) </sub>  
 <br>
-<br>
 <img src="pic/re1.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
