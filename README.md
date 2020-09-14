@@ -38,7 +38,7 @@ Human–computer interaction
 [HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
-<sub>Xi Yang, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
+<sub><b>Xi Yang</b>, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
 <b>Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping</b><br>
 In CVPR Workshops (2019) </sub>
 <br>
@@ -48,11 +48,11 @@ In CVPR Workshops (2019) </sub>
 [Visualization of Lithic Materials]()  
 
 <img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
-<sub>Xi Yang, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
+<sub><b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
   <b>Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
   The Journal of Art and Science (2019) </sub>  
 <br>
-<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno<br>
+<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
   The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
 <br>
@@ -61,15 +61,18 @@ In CVPR Workshops (2019) </sub>
 [Matching Lithic Materials]()  
 
 <img src="pic/re0.jpg" alt="image" align="left" width="70"/>
-<img src="pic/re0.jpg" alt="image" align="left" width="70"/> <br>
-
+<img src="pic/re0.jpg" alt="image" align="left" width="70"/>
+<br>
+<br>
+<br>
+<br>
 <img src="pic/re1.jpg" alt="image" align="left" width="70"/>
 <img src="pic/re11.jpg" alt="image" align="left" width="70"/>
-<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno<br>
+<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
   Eurographics Workshop on Graphics and cultural Heritage (GCH 017) </sub>  
 <br>
-<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno<br>
+<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
   The Journal of Art and Science (2016)</sub>
 <br>
@@ -79,7 +82,7 @@ In CVPR Workshops (2019) </sub>
 [Point Cloud Simplification]() 
 
 <img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
-<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
+<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
   <b>A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
   The Journal of Art and Science (2015)</sub>
 <br>
