@@ -33,7 +33,6 @@ Human–computer interaction
   <b>IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</b><br>
   In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
 <br>
-<br>
 
 [HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
 
@@ -51,6 +50,7 @@ In CVPR Workshops (2019) </sub>
 <sub><b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
   <b>Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
   The Journal of Art and Science (2019) </sub>  
+<br>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
   The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
