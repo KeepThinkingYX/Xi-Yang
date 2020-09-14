@@ -50,7 +50,6 @@ In CVPR Workshops (2019) </sub>
 <sub><b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
   <b>Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
   The Journal of Art and Science (2019) </sub>  
-<br>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
   The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
@@ -63,6 +62,7 @@ In CVPR Workshops (2019) </sub>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
   Eurographics Workshop on Graphics and cultural Heritage (GCH 017) </sub>  
+<br>
 <img src="pic/re1.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
