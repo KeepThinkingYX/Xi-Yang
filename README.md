@@ -8,7 +8,7 @@
 [IGARASHI Laboratory](http://www-ui.is.s.u-tokyo.ac.jp/)  
 The University of Tokyo   
 
-Email: earthyangxi(AT)sina.com  
+Email: earthyangxi(AT)gmail.com  
 
 ## Education
 
