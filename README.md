@@ -30,6 +30,9 @@ Deep learning
 
 [3D Techniques for Medicine](https://github.com/intra3d2019/IntrA)
 
+<br>
+<br>
+<br>
 <sub>Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi. 
 IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning.
 In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) **Oral** <sub>
@@ -38,6 +41,9 @@ In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogni
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
 [HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+<br>
+<br>
+<br>
 <sub>Xi Yang, Bojian Wu, Issei Sato, and Takeo Igarashi. "Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping." In CVPR Workshops, pp. 103-106. 2019.<sub>
 <br>
 
