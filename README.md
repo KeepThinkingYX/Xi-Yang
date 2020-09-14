@@ -30,9 +30,8 @@ Deep learning
 
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
 <sub>Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi  
-  
 IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning  
-  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) **Oral**<sub>  
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) **Oral**<sub>  
 <br>
 <br>
 
@@ -42,6 +41,7 @@ IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
 <sub>Xi Yang, Bojian Wu, Issei Sato, and Takeo Igarashi
   Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping
   In CVPR Workshops (2019) <sub>
+<br>
 <br>
 <br>
 
