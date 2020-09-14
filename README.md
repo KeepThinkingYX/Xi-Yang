@@ -21,8 +21,8 @@ BE degree in College of Information Engineering from Northwest A&F University, C
 ## Research Interests
 
 Computer graphics  
-Human–computer interaction  
 Deep learning  
+Human–computer interaction  
 
 ## Projects
 
