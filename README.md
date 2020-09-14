@@ -30,17 +30,18 @@ Deep learning
 
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
 <sub>Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi <br>
-IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning <br>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) **Oral**<sub>  
+  IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning <br>
+  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) **Oral**<sub>  
+<br>
 <br>
 <br>
 
 [HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
-<sub>Xi Yang, Bojian Wu, Issei Sato, and Takeo Igarashi
-  Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping
-  In CVPR Workshops (2019) <sub>
+<sub>Xi Yang, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
+Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping<br>
+In CVPR Workshops (2019) <sub>
 <br>
 <br>
 <br>
@@ -48,8 +49,8 @@ In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogni
 [Visualization of Lithic Materials]()  
 
 <img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
-<sub>Xi Yang, Kouichi Konno, Fumito Chiba, Shin Yokoyama
-  Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools
+<sub>Xi Yang, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
+  Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools<br>
   The Journal of Art and Science (2019) <sub>  
 <br>
 <sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno
