@@ -34,7 +34,6 @@ Deep learning
   In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
 <br>
 <br>
-<br>
 
 [HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
 
@@ -58,12 +57,11 @@ In CVPR Workshops (2019) </sub>
   The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
 <br>
 <br>
-<br>
 
 [Matching Lithic Materials]()  
 
 <img src="pic/re0.jpg" alt="image" align="left" width="70"/>
-<img src="pic/re0.jpg" alt="image" align="left" width="70"/>
+<img src="pic/re0.jpg" alt="image" align="left" width="70"/> <br>
 <img src="pic/re1.jpg" alt="image" align="left" width="70"/>
 <img src="pic/re11.jpg" alt="image" align="left" width="70"/>
 <sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno<br>
@@ -89,7 +87,14 @@ In CVPR Workshops (2019) </sub>
 
 ## Publications
 
+### Preprint
+- **X. Yang**, D. Xia, T. Kin, T. Igarashi, “Surface-based 3D Deep Learning Framework for Segmentation of Intracranial Aneurysms from TOF-MRA Images”, arXiv preprint, arXiv:2006.16161, 2020.
+
 ### Journal
+
+- C. Zhang, X. Lu, K. Hotta, **X. Yang**, “G2MF-WA: Geometric Multi-Model Fitting with Weakly Annotated Data”, Computational Visual Media, 10 pages, 2020.
+
+- **X.Yang**, K. Konno, F. Chiba, S. Yokoyama, “Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools”, The Journal of Art and Science, Vol.18, No.1, pp.40-50, 2019.
 
 - **X.Yang**, K. Matsuyama, K. Konno: “A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces”, *The Journal of Art and Science*, Vol.15, No. 4, pp.167-176, 2016. **NICOGRAPH 2016 優秀論文賞**
 
@@ -99,26 +104,25 @@ In CVPR Workshops (2019) </sub>
 
 ### International Conference
 
-- T. Lin, **X. Yang**, K. Konno: "A Method of Searching Lithic Cores by Average Linkage Clustering", *NICOGRAPH International 2018*, (2018).
+- **X. Yang**, D. Xia, T. Kin, T. Igarashi, “IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, June 16 - 18, 2020. **Oral**
 
-- T. Batbold, **X. Yang**, K. Konno: "A Study of Finding Target Objects for Visualizing Stone Tool
-Assembly", *NICOGRAPH International 2018*, (2018).
+- **X. Yang**, B. Wu, I. Sato, T. Igarashi, “Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping”, *CVPR-19 Workshop on Explainable AI*, Long Beach, CA, June 16th - 20th, 2019.
 
-- T. Lin, **X. Yang**, K. Matsuyama, K. Konno: "An Edge Optimization Method Based on
-Segmented Surfaces of Stone Flakes", *International Workshop on Advanced Image Technology
-2018 (IWAIT 2018)*, (2018).
+- Y. Wang, **Xi Yang**, T. Fukusato, T. Igarashi, “Computational Design and Fabrication of 3D Wire Bending Art”, *ACM SIGGRAPH ASIA 2019 Poster*, Brisbane, 11.17-20, 2019.
 
-- **X. Yang**, K. Matsuyama, K. Konno: "Pairwise Matching of Stone Tools Based on Flake-Surface
-Contour Points and Normals", *Eurographics Workshop on Graphics and cultural Heritage (GCH)*,
-The Eurographics Association, (2017).
+- T. Lin, **X. Yang**, K. Konno: "A Method of Searching Lithic Cores by Average Linkage Clustering", *NICOGRAPH International 2018*, 2018.
 
-- **X. Yang**, K. Matsuyama, K. Konno: "Interactive Visualization of Assembly Instruction for Stone Tools Restoration", *The 10th IEEE Pacific Visualization Symposium (PacificVis 2017)*, pp.270-274, (2017).
+- T. Batbold, **X. Yang**, K. Konno: "A Study of Finding Target Objects for Visualizing Stone Tool Assembly", *NICOGRAPH International 2018*, 2018.
+
+- T. Lin, **X. Yang**, K. Matsuyama, K. Konno: "An Edge Optimization Method Based on Segmented Surfaces of Stone Flakes", *International Workshop on Advanced Image Technology 2018 (IWAIT 2018)*, 2018.
+
+- **X. Yang**, K. Matsuyama, K. Konno: "Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals", *Eurographics Workshop on Graphics and cultural Heritage (GCH)*, The Eurographics Association, 2017.
+
+- **X. Yang**, K. Matsuyama, K. Konno: "Interactive Visualization of Assembly Instruction for Stone Tools Restoration", *The 10th IEEE Pacific Visualization Symposium (PacificVis 2017)*, pp.270-274, 2017.
 
 ### Domestic Conference
 
-- **X. Yang**, K. Matsuyama, K. Konno, F. Chiba, S. Yokoyama: "Analysis and Visualization
-Instruction by Flake Knapping Sequence for Chipped Stone Tools", *NICOGRAPH 2017*,
-pp.1-8, (2017).
+- **X. Yang**, K. Matsuyama, K. Konno, F. Chiba, S. Yokoyama: "Analysis and Visualization Instruction by Flake Knapping Sequence for Chipped Stone Tools", *NICOGRAPH 2017*, pp.1-8, 2017.
 
 - **X. Yang**, K. Matsuyama, K. Konno, Y. Tokuyama: “A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature”, *NICOGRAPH 2014*, pp.9-16, 優秀論文賞，11 月 2-4 日，2014．
 
