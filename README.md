@@ -29,7 +29,7 @@ Human–computer interaction
 [3D Techniques for Medicine](https://github.com/intra3d2019/IntrA)
 
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
-<sub>Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
+<sub><u>Xi Yang</u>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
   <b>IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</b><br>
   In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
 <br>
@@ -62,6 +62,7 @@ In CVPR Workshops (2019) </sub>
 
 <img src="pic/re0.jpg" alt="image" align="left" width="70"/>
 <img src="pic/re0.jpg" alt="image" align="left" width="70"/> <br>
+
 <img src="pic/re1.jpg" alt="image" align="left" width="70"/>
 <img src="pic/re11.jpg" alt="image" align="left" width="70"/>
 <sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno<br>
