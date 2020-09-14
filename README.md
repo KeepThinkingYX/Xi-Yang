@@ -60,8 +60,7 @@ In CVPR Workshops (2019) </sub>
 
 [Matching Lithic Materials]()  
 
-<img src="pic/re0.jpg" alt="image" align="left" width="70"/>
-<img src="pic/re00.jpg" alt="image" align="left" width="55"/>
+<img src="pic/re0.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
   Eurographics Workshop on Graphics and cultural Heritage (GCH 017) </sub>  
