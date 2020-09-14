@@ -29,8 +29,8 @@ Deep learning
 [3D Techniques for Medicine](https://github.com/intra3d2019/IntrA)
 
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
-<sub>Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi  
-IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning  
+<sub>Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi <br>
+IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning <br>
 In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) **Oral**<sub>  
 <br>
 <br>
