@@ -62,6 +62,8 @@ In CVPR Workshops (2019) </sub>
 
 [Matching Lithic Materials]()  
 
+<img src="pic/re0.jpg" alt="image" align="left" width="70"/>
+<img src="pic/re0.jpg" alt="image" align="left" width="70"/>
 <img src="pic/re1.jpg" alt="image" align="left" width="70"/>
 <img src="pic/re11.jpg" alt="image" align="left" width="70"/>
 <sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno<br>
@@ -85,7 +87,7 @@ In CVPR Workshops (2019) </sub>
 <br>
 <br>
 
-<!--- ## Publications
+## Publications
 
 ### Journal
 
@@ -121,7 +123,7 @@ pp.1-8, (2017).
 - **X. Yang**, K. Matsuyama, K. Konno, Y. Tokuyama: “A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature”, *NICOGRAPH 2014*, pp.9-16, 優秀論文賞，11 月 2-4 日，2014．
 
 - **楊渓**，松山克胤，今野晃市：“曲率に基づくグループ化による計測点群の軽量化”, *平成 25 年度第４回 芸術科学会東北支部研究会*，3 月 29 日，2014．
--->
+
 ## Awards
 
 - 平成28年度, **岩手大学学長賞**
@@ -130,10 +132,6 @@ pp.1-8, (2017).
 - NICOGRAPH 2014, **優秀論文賞**
 - 豊嶋宏太，森本由宇，佐々木尭，*楊渓*：“Digital Planisphere”，アート＆テクノロジー東北２０１４，**審査員特別賞**，6月28日，2014.
 - *FREESPACE team*: “ActivityAnalyse”，**一等奖**，西北农林科技大学第六届软件设计大赛，2011.
-
-## Links
-
-[Xi Yang - cnblogs](http://www.cnblogs.com/yangxi/)  
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/1487158882.png)
 
