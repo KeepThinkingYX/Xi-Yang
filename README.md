@@ -29,7 +29,8 @@ Deep learning
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
 
 [3D Techniques for Medicine](https://github.com/intra3d2019/IntrA)
-<sub> Yang, Xi, Ding Xia, Taichi Kin, and Takeo Igarashi. 
+
+<sub>Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi. 
 IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning.
 In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) **Oral** <sub>
 <br>
@@ -37,18 +38,18 @@ In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogni
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 
 [HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
-<br>
-<br>
-<br>
+<sub>Xi Yang, Bojian Wu, Issei Sato, and Takeo Igarashi. "Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping." In CVPR Workshops, pp. 103-106. 2019.<sub>
 <br>
 
 <img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
 
 [Visualization of Lithic Materials]()  
-<br>
-<br>
-<br>
-<br>
+<sub>Xi Yang, Kouichi Konno, Fumito Chiba, Shin Yokoyama
+  Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools
+  The Journal of Art and Science (2019) <sub>
+<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno
+  Interactive Visualization of Assembly Instruction for Stone Tools Restoration
+  The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) <sub>
 <br>
 <br>
 
@@ -56,17 +57,20 @@ In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogni
 <img src="pic/re11.jpg" alt="image" align="left" width="70"/>
 
 [Matching Lithic Materials]()  
-<br>
-<br>
-<br>
+<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno
+  Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals
+  Eurographics Workshop on Graphics and cultural Heritage (GCH 017) <sub>
+<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno
+  A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces
+  The Journal of Art and Science (2016)<sub>
 <br>
 
 <img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
 
 [Point Cloud Simplification]()  
-<br>
-<br>
-<br>
+<sub>Xi Yang, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama
+  A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature
+  The Journal of Art and Science (2015)<sub>
 <br>
 
 <!--- ## Publications
