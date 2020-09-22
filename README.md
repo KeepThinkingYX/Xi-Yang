@@ -1,5 +1,9 @@
 # Xi Yang (楊 溪)
 
+## News
+
+> 2020.09.17 One paper has been accepted by ACM SIGGRAPH ASIA 2020 Technical Communications.
+
 ## [CV pdf](pic/cv.pdf  " ")
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
@@ -99,7 +103,7 @@ In CVPR Workshops (2019) </sub>
 
 ### International Conference
 
-- I. Orito, **Xi Yang**, K. Nakashima, T. Fukusato, T. Igarashi, “Distorted Perspective for the Forward Camera Dolly”, ACM SIGGRAPH ASIA 2020 Technical Communications (accepted)
+- I. Orito, **Xi Yang**, K. Nakashima, T. Fukusato, T. Igarashi, “Distorted Perspective for the Forward Camera Dolly”, ACM SIGGRAPH ASIA 2020 Technical Communications (**Accepted**)
 
 - **X. Yang**, D. Xia, T. Kin, T. Igarashi, “IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, June 16 - 18, 2020. **Oral**
 
