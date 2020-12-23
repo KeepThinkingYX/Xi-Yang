@@ -142,7 +142,7 @@ In CVPR Workshops (2019) </sub>
 
 ### Program Committee
 
-- ![International Symposium on Intelligence Design 2021](http://www.jaist.ac.jp/event/design2021/)
+- International Symposium on Intelligence Design [2021](http://www.jaist.ac.jp/event/design2021/)
 
 ### Review
 
