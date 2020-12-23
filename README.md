@@ -138,5 +138,17 @@ In CVPR Workshops (2019) </sub>
 - 豊嶋宏太，森本由宇，佐々木尭，*楊渓*：“Digital Planisphere”，アート＆テクノロジー東北２０１４，**審査員特別賞**，6月28日，2014.
 - *FREESPACE team*: “ActivityAnalyse”，**一等奖**，西北农林科技大学第六届软件设计大赛，2011.
 
+## Service
+
+### Program Committee
+
+- ![International Symposium on Intelligence Design 2021](http://www.jaist.ac.jp/event/design2021/)
+
+### Review
+
+- IEEE VIS 2019
+- GeoInformatica
+- International Journal of Human-Computer Studies
+
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/1487158882.png)
 
