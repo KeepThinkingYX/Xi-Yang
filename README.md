@@ -3,6 +3,7 @@
 ## News
 
 > 2021.01.09 One paper has been accepted by ISBI 2021.
+
 > 2020.09.17 One paper has been accepted by ACM SIGGRAPH ASIA 2020 Technical Communications.
 
 ## [CV pdf](pic/cv.pdf  " ")
