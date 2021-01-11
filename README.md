@@ -2,6 +2,7 @@
 
 ## News
 
+> 2021.01.09 One paper has been accepted by ISBI 2021.
 > 2020.09.17 One paper has been accepted by ACM SIGGRAPH ASIA 2020 Technical Communications.
 
 ## [CV pdf](pic/cv.pdf  " ")
@@ -103,7 +104,9 @@ In CVPR Workshops (2019) </sub>
 
 ### International Conference
 
-- I. Orito, **Xi Yang**, K. Nakashima, T. Fukusato, T. Igarashi, “Distorted Perspective for the Forward Camera Dolly”, ACM SIGGRAPH ASIA 2020 Technical Communications, 2020.
+- Heng Fang, **Xi Yang**, Taichi Kin, Takeo Igarashi, "Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) (ISBI 2021), April 13-16, 2021.
+
+- I. Orito, **X. Yang**, K. Nakashima, T. Fukusato, T. Igarashi, “Distorted Perspective for the Forward Camera Dolly”, ACM SIGGRAPH ASIA 2020 Technical Communications, 2020.
 
 - **X. Yang**, D. Xia, T. Kin, T. Igarashi, “IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, June 16 - 18, 2020. **Oral**
 
