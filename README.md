@@ -127,6 +127,8 @@ In CVPR Workshops (2019) </sub>
 
 ### Domestic Conference
 
+- 折登 樹, **楊 溪**, 中島一崇, 福里 司, 五十嵐健夫: "奥行方向への移動に対する非写実的なパースのインタラクティブな設計手法", 第28回 Visual Computing (VC2020), 27, オンライン, 2020.12.2-4. **優秀研究発表賞**
+
 - **X. Yang**, K. Matsuyama, K. Konno, F. Chiba, S. Yokoyama: "Analysis and Visualization Instruction by Flake Knapping Sequence for Chipped Stone Tools", *NICOGRAPH 2017*, pp.1-8, 2017.
 
 - **X. Yang**, K. Matsuyama, K. Konno, Y. Tokuyama: “A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature”, *NICOGRAPH 2014*, pp.9-16, 優秀論文賞，11 月 2-4 日，2014．
