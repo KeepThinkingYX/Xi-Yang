@@ -107,7 +107,11 @@ In CVPR Workshops (2019) </sub>
 
 - Heng Fang, **Xi Yang**, Taichi Kin, Takeo Igarashi, "Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) (ISBI 2021), April 13-16, 2021.
 
+- Yi He, Haoran Xie, Chao Zhang, **Xi Yang**, Kazunori Miyata, Sketch-based Normal Map Generation with Geometric Sampling, International Workshop on Advanced Image Technology 2021, 2021.01.
+
 - I. Orito, **X. Yang**, K. Nakashima, T. Fukusato, T. Igarashi, “Distorted Perspective for the Forward Camera Dolly”, ACM SIGGRAPH ASIA 2020 Technical Communications, 2020.
+
+- Chunzhi Gu, Zhengyu Huang, Sicheng Li, Haoran Xie, **Xi Yang**, Chao Zhang. Apparel Generation via Cluster-Indexed Global and Local Feature Representations. IEEE 9th Global Conference on Consumer Electronics (GCCE 2020), short paper, Kobe, 2020.10.
 
 - **X. Yang**, D. Xia, T. Kin, T. Igarashi, “IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, June 16 - 18, 2020. **Oral**
 
