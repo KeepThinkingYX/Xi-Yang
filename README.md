@@ -10,11 +10,13 @@
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
-<big>Project Assistant Professor</big>  
-[IGARASHI Laboratory](http://www-ui.is.s.u-tokyo.ac.jp/)  
-The University of Tokyo   
+<big>Assisoat Professor</big>
+[Jilin Uiversity](https://sai.jlu.edu.cn/)
 
 Email: earthyangxi(AT)gmail.com  
+
+## Work Experience
+Project Assistant Professor, [IGARASHI Laboratory](http://www-ui.is.s.u-tokyo.ac.jp/), The University of Tokyo   
 
 ## Education
 
