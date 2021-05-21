@@ -11,7 +11,7 @@
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
 <big>Associate Professor</big>  
-[School of Artificial intelligence](https://sai.jlu.edu.cn/), Jilin University.  
+[School of Artificial Intelligence](https://sai.jlu.edu.cn/), Jilin University.  
 
 Email: earthyangxi(AT)gmail.com  
 
