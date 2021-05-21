@@ -10,13 +10,13 @@
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
-<big>Assisoat Professor</big>
-[School of Artificial intelligence](https://sai.jlu.edu.cn/), Jilin University.
+<big>Associate Professor</big>  
+[School of Artificial intelligence](https://sai.jlu.edu.cn/), Jilin University.  
 
 Email: earthyangxi(AT)gmail.com  
 
 ## Work Experience
-Project Assistant Professor (2018.4 - 2021.3)
+Project Assistant Professor (2018.4 - 2021.3)  
 [IGARASHI Laboratory](http://www-ui.is.s.u-tokyo.ac.jp/), The University of Tokyo. 
 
 ## Education
