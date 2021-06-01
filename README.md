@@ -2,9 +2,9 @@
 
 ## News
 
-> 2021.01.09 Our paper has been accepted by ISBI 2021.
+> 2021.06.01 Our paper is accepted by SIGGRAPH 2021 Posters.
 
-> 2020.09.17 Our paper has been accepted by ACM SIGGRAPH ASIA 2020 Technical Communications.
+> 2021.01.09 Our paper is accepted by ISBI 2021.
 
 ## [CV pdf](pic/cv.pdf  " ")
 
