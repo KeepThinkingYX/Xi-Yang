@@ -6,6 +6,8 @@
 
 > 2021.01.09 Our paper is accepted by ISBI 2021.
 
+<!--- > 2020.09.17 Our paper is accepted by ACM SIGGRAPH ASIA 2020 Technical Communications. -->
+
 ## [CV pdf](pic/cv.pdf  " ")
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
