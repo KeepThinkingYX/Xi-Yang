@@ -163,9 +163,11 @@ In CVPR Workshops (2019) </sub>
 
 ### Review
 
+- CYBERWORLDS 2021
+- NeurIPS 2021
+- International Journal of Human-Computer Studies
 - IEEE VIS 2019
 - GeoInformatica
-- International Journal of Human-Computer Studies
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/1487158882.png)
 
