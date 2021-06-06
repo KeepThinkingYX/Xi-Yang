@@ -110,6 +110,8 @@ In CVPR Workshops (2019) </sub>
 
 ### International Conference
 
+- Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, **Xi Yang**, Takeo Igarashi, "A Suggestive Interface for Designing Dance Formations", SIGGRAPH 2021 poster. (accepted)
+
 - Heng Fang, **Xi Yang**, Taichi Kin, Takeo Igarashi, "Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) (ISBI 2021), April 13-16, 2021.
 
 - Yi He, Haoran Xie, Chao Zhang, **Xi Yang**, Kazunori Miyata, Sketch-based Normal Map Generation with Geometric Sampling, International Workshop on Advanced Image Technology 2021, 2021.01.
