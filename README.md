@@ -13,7 +13,7 @@
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG)
 
 <big>Associate Professor</big>  
-[Interdisciplinary Intelligent Graphics Group (IIGG)](https://yang-group.github.io/)
+[Interdisciplinary Intelligent Graphics Group (IIGG)](https://yang-group.github.io/)  
 [School of Artificial Intelligence](https://sai.jlu.edu.cn/), Jilin University.  
 
 Email: earthyangxi(AT)gmail.com  
