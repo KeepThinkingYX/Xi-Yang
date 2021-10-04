@@ -2,6 +2,8 @@
 
 ## News
 
+> 2021.06.01 Our paper "Learning English to Chinese Character: Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters.
+
 > 2021.06.01 Our paper is accepted by SIGGRAPH 2021 Posters.
 
 > 2021.01.09 Our paper is accepted by ISBI 2021.
