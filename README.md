@@ -94,7 +94,7 @@ In CVPR Workshops (2019) </sub>
 <br>
 <br>
 
-## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja))
+## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
 
 ### Preprint
 - **X. Yang**, D. Xia, T. Kin, T. Igarashi, “Surface-based 3D Deep Learning Framework for Segmentation of Intracranial Aneurysms from TOF-MRA Images”, arXiv preprint, arXiv:2006.16161, 2020.
