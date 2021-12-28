@@ -40,47 +40,6 @@ Human-Computer Interaction
 
 ## Research Topics
 
-Computational Arts
-
-<div>
-  <img src="pic/sa21posters-27-fig1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
-  <span><sub>
-    Yifan Jin, Yi Zhang, <b>Xi Yang</b><br>
-    <b><a href="https://dl.acm.org/doi/fullHtml/10.1145/3476124.3488642">Learning English to Chinese Character: Calligraphic Art Production based on Transformer</a></b><br>
-    SIGGRAPH Asia 2021 Posters
-  </sub></span>
-</div>
-<br>
-<div>
-  <img src="pic/bSzYZY3ESpQ8CKpE.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
-  <span><sub>
-    Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, <b>Xi Yang</b>, Takeo Igarashi<br>
-    <b><a href="https://dl.acm.org/doi/10.1145/3450618.3469156">A Suggestive Interface for Designing Dance Formations</a></b><br>
-    ACM SIGGRAPH 2021 Posters
-  </sub></span>
-</div>
-<br>
-<div>
-  <img src="pic/Dolly.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
-  <span><sub>
-    Itsuki Orito, <b>Xi Yang</b>, Kazutaka Nakashima, Tsukasa Fukusato, Takeo Igarashi<br>
-    <b><a href="https://dl.acm.org/doi/10.1145/3410700.3425431">Distorted Perspective for the Forward Camera Dolly</a></b><br>
-    ACM SIGGRAPH ASIA 2020 Technical Communications
-  </sub></span>
-</div>
-<br>
-<div>
-  <img src="pic/JfhZuhqQgZKzuUp1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
-  <span><sub>
-    Yinan Wang, <b>Xi Yang</b>, Tsukasa Fukusato, Takeo Igarashi<br>
-    <b><a href="https://dl.acm.org/doi/10.1145/3355056.3364575">Computational Design and Fabrication of 3D Wire Bending Art</a></b><br>
-    ACM SIGGRAPH ASIA 2019 Posters
-  </sub></span>
-</div>
-<br>
-<br>
-<br>
-
 3D Deep Learning for Medicine
 
 <div>
@@ -121,6 +80,47 @@ HCL for ML
     In CVPR Workshops (2019)
    </sub></span>
 </div>
+<br>
+<br>
+
+Computational Arts
+
+<div>
+  <img src="pic/sa21posters-27-fig1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Yifan Jin, Yi Zhang, <b>Xi Yang</b><br>
+    <b><a href="https://dl.acm.org/doi/fullHtml/10.1145/3476124.3488642">Learning English to Chinese Character: Calligraphic Art Production based on Transformer</a></b><br>
+    SIGGRAPH Asia 2021 Posters
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/bSzYZY3ESpQ8CKpE.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, <b>Xi Yang</b>, Takeo Igarashi<br>
+    <b><a href="https://dl.acm.org/doi/10.1145/3450618.3469156">A Suggestive Interface for Designing Dance Formations</a></b><br>
+    ACM SIGGRAPH 2021 Posters
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/Dolly.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Itsuki Orito, <b>Xi Yang</b>, Kazutaka Nakashima, Tsukasa Fukusato, Takeo Igarashi<br>
+    <b><a href="https://dl.acm.org/doi/10.1145/3410700.3425431">Distorted Perspective for the Forward Camera Dolly</a></b><br>
+    ACM SIGGRAPH ASIA 2020 Technical Communications
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/JfhZuhqQgZKzuUp1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Yinan Wang, <b>Xi Yang</b>, Tsukasa Fukusato, Takeo Igarashi<br>
+    <b><a href="https://dl.acm.org/doi/10.1145/3355056.3364575">Computational Design and Fabrication of 3D Wire Bending Art</a></b><br>
+    ACM SIGGRAPH ASIA 2019 Posters
+  </sub></span>
+</div>
+<br>
 <br>
 <br>
 
