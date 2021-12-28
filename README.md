@@ -42,13 +42,12 @@ Human-computer interaction
 
 3D Techniques for Medicine
 
-<img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
+<img src="pic/details-min.png" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
   <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
   arXiv preprint, 2021 </sub>  
 <br>
-
-<img src="pic/details-min.png" alt="image" align="left" width="150"/>
+<img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
   <b><a href="https://github.com/intra3d2019/IntrA">IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</a></b><br>
   In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
@@ -58,7 +57,7 @@ HCL for ML
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
-<b>[Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html) </b><br>
+  <b><a href="https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html">Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping</a></b><br>
 In CVPR Workshops (2019) </sub>
 <br>
 <br>
