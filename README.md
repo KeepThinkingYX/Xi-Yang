@@ -45,7 +45,8 @@ Human-computer interaction
 <img src="pic/details-min.png" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
   <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
-  arXiv preprint, 2021 </sub>  
+  arXiv preprint, 2021 </sub>
+<br>
 <br>
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
@@ -75,9 +76,7 @@ Geometry Processing for Lithic Materials
   The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
 <br>
 <br>
-
 <!--Matching Lithic Materials-->
-
 <img src="pic/re0.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
   <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
@@ -89,9 +88,7 @@ Geometry Processing for Lithic Materials
   The Journal of Art and Science (2016)</sub>
 <br>
 <br>
-
 <!--Point Cloud Simplification-->
-
 <img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
   <b>A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
