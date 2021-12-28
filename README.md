@@ -61,7 +61,7 @@ Computational Arts
 </div>
 <br>
 <div>
-  <img src="pic/sa21posters-27-fig1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <img src="pic/Dolly.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     Itsuki Orito, <b>Xi Yang</b>, Kazutaka Nakashima, Tsukasa Fukusato, Takeo Igarashi,
     <b><a href="https://dl.acm.org/doi/10.1145/3410700.3425431">Distorted Perspective for the Forward Camera Dolly</a></b><br>
