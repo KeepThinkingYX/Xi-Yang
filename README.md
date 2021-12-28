@@ -117,7 +117,7 @@ HCL for ML
   <img src="cvprw2019/image.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
-    <b><a href="https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html">Directing DNNs Attention for Facial Attribution           Classification using Gradient-weighted Class Activation Mapping</a></b><br>
+    <b><a href="https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html">Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping</a></b><br>
     In CVPR Workshops (2019)
    </sub></span>
 </div>
@@ -131,10 +131,10 @@ Geometry Processing for Lithic Materials
   <img src="pic/exp1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
-    <b><a href="https://www.art-science.org/journal/v18n1/v18n1pp40/artsci-v18n1pp40.pdf">Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
+    <b><a href="https://www.art-science.org/journal/v18n1/v18n1pp40/artsci-v18n1pp40.pdf">Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</a></b><br>
     The Journal of Art and Science (2019)
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-    <b><a href="https://ieeexplore.ieee.org/document/8031604">Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
+    <b><a href="https://ieeexplore.ieee.org/document/8031604">Interactive Visualization of Assembly Instruction for Stone Tools Restoration</a></b><br>
     The 10th IEEE Pacific Visualization Symposium (PacificVis 2017)
   </sub></span>
 </div>
@@ -144,7 +144,7 @@ Geometry Processing for Lithic Materials
   <img src="pic/re0.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-    <b><a href="https://diglib.eg.org/handle/10.2312/gch20171303">Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
+    <b><a href="https://diglib.eg.org/handle/10.2312/gch20171303">Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</a></b><br>
     Eurographics Workshop on Graphics and cultural Heritage (GCH 2017)
    </sub></span>
 </div>
@@ -153,7 +153,7 @@ Geometry Processing for Lithic Materials
   <img src="pic/re1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-    <b><a href="https://www.art-science.org/journal/v15n4/v15n4pp167/artsci-v15n4pp167.pdf">A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
+    <b><a href="https://www.art-science.org/journal/v15n4/v15n4pp167/artsci-v15n4pp167.pdf">A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</a></b><br>
     The Journal of Art and Science (2016) <b>NICOGRAPH 2016 優秀論文賞</b>
    </sub></span>
 </div>
@@ -163,7 +163,7 @@ Geometry Processing for Lithic Materials
   <img src="pic/simplification.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
-    <b><a href="https://art-science.org/journal/v14n4/v14n4pp117/artsci-v14n4pp117.pdf">A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
+    <b><a href="https://art-science.org/journal/v14n4/v14n4pp117/artsci-v14n4pp117.pdf">A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</a></b><br>
     The Journal of Art and Science (2015) <b>NICOGRAPH 2014 優秀論文賞</b>
   </sub></span>
 </div>
