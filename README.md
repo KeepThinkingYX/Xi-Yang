@@ -63,7 +63,7 @@ Computational Arts
 <div>
   <img src="pic/Dolly.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
-    Itsuki Orito, <b>Xi Yang</b>, Kazutaka Nakashima, Tsukasa Fukusato, Takeo Igarashi,
+    Itsuki Orito, <b>Xi Yang</b>, Kazutaka Nakashima, Tsukasa Fukusato, Takeo Igarashi<br>
     <b><a href="https://dl.acm.org/doi/10.1145/3410700.3425431">Distorted Perspective for the Forward Camera Dolly</a></b><br>
     ACM SIGGRAPH ASIA 2020 Technical Communications
   </sub></span>
@@ -77,6 +77,7 @@ Computational Arts
     ACM SIGGRAPH ASIA 2019 Posters
   </sub></span>
 </div>
+<br>
 <br>
 
 3D Deep Learning for Medicine
