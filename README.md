@@ -34,9 +34,9 @@ BE degree in College of Information Engineering from Northwest A&F University, C
 
 ## Research Interests
 
-Computer graphics  
-Deep learning  
-Human-computer interaction  
+Computer Graphics  
+Deep Learning  
+Human-Computer Interaction  
 
 ## Research Topics
 
@@ -51,9 +51,35 @@ Computational Arts
   </sub></span>
 </div>
 <br>
+<div>
+  <img src="pic/bSzYZY3ESpQ8CKpE.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, <b>Xi Yang</b>, Takeo Igarashi<br>
+    <b><a href="https://dl.acm.org/doi/10.1145/3450618.3469156">A Suggestive Interface for Designing Dance Formations</a></b><br>
+    ACM SIGGRAPH 2021 Posters
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/sa21posters-27-fig1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Itsuki Orito, <b>Xi Yang</b>, Kazutaka Nakashima, Tsukasa Fukusato, Takeo Igarashi,
+    <b><a href="https://dl.acm.org/doi/10.1145/3410700.3425431">Distorted Perspective for the Forward Camera Dolly</a></b><br>
+    ACM SIGGRAPH ASIA 2020 Technical Communications
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/JfhZuhqQgZKzuUp1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Yinan Wang, <b>Xi Yang</b>, Tsukasa Fukusato, Takeo Igarashi,
+    <b><a href="https://dl.acm.org/doi/10.1145/3355056.3364575">Computational Design and Fabrication of 3D Wire Bending Art</a></b><br>
+    ACM SIGGRAPH ASIA 2019 Posters
+  </sub></span>
+</div>
 <br>
 
-3D Techniques for Medicine
+3D Deep Learning for Medicine
 
 <div>
   <img src="pic/details-min.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
@@ -61,6 +87,15 @@ Computational Arts
     <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
     <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
     arXiv preprint, 2021 
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/isbi-2021.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Heng Fang, <b>Xi Yang</b>, Taichi Kin, Takeo Igarashi,i<br>
+    <b><a href="https://arxiv.org/abs/2104.04291">Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps</a></b><br>
+    2021 IEEE International Symposium on Biomedical Imaging (ISBI) (ISBI 2021)
   </sub></span>
 </div>
 <br>
@@ -117,7 +152,7 @@ Geometry Processing for Lithic Materials
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
     <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
-    The Journal of Art and Science (2016)
+    The Journal of Art and Science (2016) <b>NICOGRAPH 2016 優秀論文賞</b>
    </sub></span>
 </div>
 <br>
@@ -127,7 +162,7 @@ Geometry Processing for Lithic Materials
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
     <b>A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
-    The Journal of Art and Science (2015)
+    The Journal of Art and Science (2015) <b>NICOGRAPH 2014 優秀論文賞</b>
   </sub></span>
 </div>
 <br>
@@ -152,7 +187,7 @@ Geometry Processing for Lithic Materials
 
 ### International Conference
 
-- Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, **Xi Yang**, Takeo Igarashi, "A Suggestive Interface for Designing Dance Formations", SIGGRAPH 2021 poster. (accepted)
+- Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, **Xi Yang**, Takeo Igarashi, "A Suggestive Interface for Designing Dance Formations", In ACM SIGGRAPH 2021 Posters (pp. 1-2).
 
 - Heng Fang, **Xi Yang**, Taichi Kin, Takeo Igarashi, "Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) (ISBI 2021), April 13-16, 2021.
 
@@ -184,7 +219,7 @@ Geometry Processing for Lithic Materials
 
 - **X. Yang**, K. Matsuyama, K. Konno, F. Chiba, S. Yokoyama: "Analysis and Visualization Instruction by Flake Knapping Sequence for Chipped Stone Tools", *NICOGRAPH 2017*, pp.1-8, 2017.
 
-- **X. Yang**, K. Matsuyama, K. Konno, Y. Tokuyama: “A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature”, *NICOGRAPH 2014*, pp.9-16, 優秀論文賞，11 月 2-4 日，2014．
+- **X. Yang**, K. Matsuyama, K. Konno, Y. Tokuyama: “A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature”, *NICOGRAPH 2014*, pp.9-16, 11 月 2-4 日, 2014．**優秀論文賞**
 
 - **楊渓**，松山克胤，今野晃市：“曲率に基づくグループ化による計測点群の軽量化”, *平成 25 年度第４回 芸術科学会東北支部研究会*，3 月 29 日，2014．
 
