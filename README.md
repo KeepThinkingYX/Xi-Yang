@@ -27,7 +27,7 @@ Project Assistant Professor (2018.4 - 2021.3)
 ## Education
 
 [KONNO Laboratory](http://gmhost.lk.cis.iwate-u.ac.jp/index.html)  
-Ph.D in Faculty of Engineering from Iwate University, Japan in 2018  
+Ph.D. in Faculty of Engineering from Iwate University, Japan in 2018  
 ME degree in Faculty of Engineering from Iwate University, Japan in 2015  
 [Zhiyi Zhang](http://cie.nwsuaf.edu.cn/szdw/js/2008118167/index.htm)  
 BE degree in College of Information Engineering from Northwest A&F University, China in 2012  
@@ -36,29 +36,30 @@ BE degree in College of Information Engineering from Northwest A&F University, C
 
 Computer graphics  
 Deep learning  
-Human–computer interaction  
+Human-computer interaction  
 
-## Selected Projects
+## Research Topics
 
-[3D Techniques for Medicine](https://github.com/intra3d2019/IntrA)
+3D Techniques for Medicine
 
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
-  <b>IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</b><br>
+  <b>[IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning](https://github.com/intra3d2019/IntrA)</b><br>
   In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
 <br>
 
-[HCL for ML](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html)  
+HCL for ML
 
 <img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
-<b>Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping</b><br>
+<b>[Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping](https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html) </b><br>
 In CVPR Workshops (2019) </sub>
 <br>
 <br>
 <br>
 
-[Visualization of Lithic Materials]()  
+Geometry Processing for Lithic Materials
+Visualization of Lithic Materials
 
 <img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
@@ -70,7 +71,7 @@ In CVPR Workshops (2019) </sub>
 <br>
 <br>
 
-[Matching Lithic Materials]()  
+Matching Lithic Materials
 
 <img src="pic/re0.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
@@ -84,7 +85,7 @@ In CVPR Workshops (2019) </sub>
 <br>
 <br>
 
-[Point Cloud Simplification]() 
+Point Cloud Simplification
 
 <img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
@@ -173,4 +174,3 @@ In CVPR Workshops (2019) </sub>
 - GeoInformatica
 
 ![image](https://github.com/KeepThinkingYX/Xi-Yang/raw/master/1487158882.png)
-
