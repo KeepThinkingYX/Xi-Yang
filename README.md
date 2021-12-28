@@ -44,7 +44,13 @@ Human-computer interaction
 
 <img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
-  <b>[IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning](https://github.com/intra3d2019/IntrA)</b><br>
+  <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
+  arXiv preprint, 2021 </sub>  
+<br>
+
+<img src="pic/details-min.png" alt="image" align="left" width="150"/>
+<sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
+  <b><a href="https://github.com/intra3d2019/IntrA">IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</a></b><br>
   In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
 <br>
 
@@ -59,7 +65,7 @@ In CVPR Workshops (2019) </sub>
 <br>
 
 Geometry Processing for Lithic Materials
-Visualization of Lithic Materials
+<!--Visualization of Lithic Materials-->
 
 <img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
@@ -71,7 +77,7 @@ Visualization of Lithic Materials
 <br>
 <br>
 
-Matching Lithic Materials
+<!--Matching Lithic Materials-->
 
 <img src="pic/re0.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
@@ -85,7 +91,7 @@ Matching Lithic Materials
 <br>
 <br>
 
-Point Cloud Simplification
+<!--Point Cloud Simplification-->
 
 <img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
 <sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
