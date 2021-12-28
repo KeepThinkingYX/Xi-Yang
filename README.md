@@ -40,6 +40,19 @@ Human-computer interaction
 
 ## Research Topics
 
+Computational Arts
+
+<div>
+  <img src="pic/sa21posters-27-fig1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Yifan Jin, Yi Zhang, <b>Xi Yang</b><br>
+    <b><a href="https://dl.acm.org/doi/fullHtml/10.1145/3476124.3488642">Learning English to Chinese Character: Calligraphic Art Production based on Transformer</a></b><br>
+    SIGGRAPH Asia 2021 Posters
+  </sub></span>
+</div>
+<br>
+<br>
+
 3D Techniques for Medicine
 
 <div>
@@ -56,7 +69,7 @@ Human-computer interaction
   <span><sub>
     <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
     <b><a href="https://github.com/intra3d2019/IntrA">IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</a></b><br>
-    In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
+    In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b>
   </sub></span>
 </div>
 <br>
@@ -85,7 +98,7 @@ Geometry Processing for Lithic Materials
     The Journal of Art and Science (2019)
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
     <b>Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
-    The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
+    The 10th IEEE Pacific Visualization Symposium (PacificVis 2017)
   </sub></span>
 </div>
 <br>
@@ -95,7 +108,7 @@ Geometry Processing for Lithic Materials
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
     <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
-    Eurographics Workshop on Graphics and cultural Heritage (GCH 017)
+    Eurographics Workshop on Graphics and cultural Heritage (GCH 2017)
    </sub></span>
 </div>
 <br>
