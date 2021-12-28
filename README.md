@@ -42,59 +42,81 @@ Human-computer interaction
 
 3D Techniques for Medicine
 
-<img src="pic/details-min.png" alt="image" align="left" width="150"/>
-<sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
-  <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
-  arXiv preprint, 2021 </sub>
+<div>
+  <img src="pic/details-min.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
+    <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
+    arXiv preprint, 2021 
+  </sub></span>
+</div>
 <br>
+<div>
+  <img src="pic/paperfinal.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
+    <b><a href="https://github.com/intra3d2019/IntrA">IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</a></b><br>
+    In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
+  </sub></span>
+</div>
 <br>
-<img src="pic/paperfinal.jpg" alt="image" align="left" width="150"/>
-<sub><b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
-  <b><a href="https://github.com/intra3d2019/IntrA">IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning</a></b><br>
-  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020) <b>Oral</b></sub>  
-<br>
-
+  
 HCL for ML
 
-<img src="cvprw2019/image.png" alt="image" align="left" width="150"/>
-<sub><b>Xi Yang</b>, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
-  <b><a href="https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html">Directing DNNs Attention for Facial Attribution Classification using Gradient-weighted Class Activation Mapping</a></b><br>
-In CVPR Workshops (2019) </sub>
-<br>
-<br>
+<div>
+  <img src="cvprw2019/image.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    <b>Xi Yang</b>, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
+    <b><a href="https://htmlpreview.github.io/?https://github.com/KeepThinkingYX/Xi-Yang/blob/master/cvprw2019/pub.html">Directing DNNs Attention for Facial Attribution           Classification using Gradient-weighted Class Activation Mapping</a></b><br>
+    In CVPR Workshops (2019)
+   </sub></span>
+</div>
 <br>
 
 Geometry Processing for Lithic Materials
 <!--Visualization of Lithic Materials-->
 
-<img src="pic/exp1.jpg" alt="image" align="left" width="150"/>
-<sub><b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
-  <b>Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
-  The Journal of Art and Science (2019) </sub>  
-<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-  <b>Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
-  The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
-<br>
+<div>
+  <img src="pic/exp1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    <b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
+    <b>Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
+    The Journal of Art and Science (2019)
+    <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
+    <b>Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
+    The 10th IEEE Pacific Visualization Symposium (PacificVis 2017) </sub>
+  </sub></span>
+</div>
 <br>
 <!--Matching Lithic Materials-->
-<img src="pic/re0.jpg" alt="image" align="left" width="150"/>
-<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-  <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
-  Eurographics Workshop on Graphics and cultural Heritage (GCH 017) </sub>  
+<div>
+  <img src="pic/re0.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
+    <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
+    Eurographics Workshop on Graphics and cultural Heritage (GCH 017)
+   </sub></span>
+</div>
 <br>
-<img src="pic/re1.jpg" alt="image" align="left" width="150"/>
-<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-  <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
-  The Journal of Art and Science (2016)</sub>
 <br>
+<div>
+  <img src="pic/re1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
+    <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
+    The Journal of Art and Science (2016)
+   </sub></span>
+</div>
 <br>
 <!--Point Cloud Simplification-->
-<img src="pic/simplification.jpg" alt="image" align="left" width="150"/>
-<sub><b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
-  <b>A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
-  The Journal of Art and Science (2015)</sub>
-<br>
-<br>
+<div>
+  <img src="pic/simplification.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
+    <b>A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
+    The Journal of Art and Science (2015)
+  </sub></span>
+</div>
 <br>
 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
