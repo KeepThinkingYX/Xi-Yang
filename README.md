@@ -94,7 +94,7 @@ Computational Arts
 <div>
   <img src="pic/isbi-2021.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
-    Heng Fang, <b>Xi Yang</b>, Taichi Kin, Takeo Igarashi,i<br>
+    Heng Fang, <b>Xi Yang</b>, Taichi Kin, Takeo Igarashi<br>
     <b><a href="https://arxiv.org/abs/2104.04291">Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps</a></b><br>
     2021 IEEE International Symposium on Biomedical Imaging (ISBI) (ISBI 2021)
   </sub></span>
@@ -130,10 +130,10 @@ Geometry Processing for Lithic Materials
   <img src="pic/exp1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
-    <b>Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
+    <b><a href="https://www.art-science.org/journal/v18n1/v18n1pp40/artsci-v18n1pp40.pdf">Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</b><br>
     The Journal of Art and Science (2019)
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-    <b>Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
+    <b><a href="https://ieeexplore.ieee.org/document/8031604">Interactive Visualization of Assembly Instruction for Stone Tools Restoration</b><br>
     The 10th IEEE Pacific Visualization Symposium (PacificVis 2017)
   </sub></span>
 </div>
@@ -143,7 +143,7 @@ Geometry Processing for Lithic Materials
   <img src="pic/re0.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-    <b>Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
+    <b><a href="https://diglib.eg.org/handle/10.2312/gch20171303">Pairwise Matching of Stone Tools Based on Flake-Surface Contour Points and Normals</b><br>
     Eurographics Workshop on Graphics and cultural Heritage (GCH 2017)
    </sub></span>
 </div>
@@ -152,7 +152,7 @@ Geometry Processing for Lithic Materials
   <img src="pic/re1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
-    <b>A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
+    <b><a href="https://www.art-science.org/journal/v15n4/v15n4pp167/artsci-v15n4pp167.pdf">A New Method of Refitting Mixture Lithic Materials by Geometric Matching of Flake Surfaces</b><br>
     The Journal of Art and Science (2016) <b>NICOGRAPH 2016 優秀論文賞</b>
    </sub></span>
 </div>
@@ -162,7 +162,7 @@ Geometry Processing for Lithic Materials
   <img src="pic/simplification.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno, Yoshimasa Tokuyama<br>
-    <b>A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
+    <b><a href="https://art-science.org/journal/v14n4/v14n4pp117/artsci-v14n4pp117.pdf">A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature</b><br>
     The Journal of Art and Science (2015) <b>NICOGRAPH 2014 優秀論文賞</b>
   </sub></span>
 </div>
