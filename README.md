@@ -132,7 +132,8 @@ Geometry Processing for Lithic Materials
   <span><sub>
     <b>Xi Yang</b>, Kouichi Konno, Fumito Chiba, Shin Yokoyama<br>
     <b><a href="https://www.art-science.org/journal/v18n1/v18n1pp40/artsci-v18n1pp40.pdf">Visualization of Flake Knapping Sequence with Analyzing Assembled Chipped Stone Tools</a></b><br>
-    The Journal of Art and Science (2019)
+    The Journal of Art and Science (2019)<br>
+    <br>
     <b>Xi Yang</b>, Katsutsugu Matsuyama, Kouichi Konno<br>
     <b><a href="https://ieeexplore.ieee.org/document/8031604">Interactive Visualization of Assembly Instruction for Stone Tools Restoration</a></b><br>
     The 10th IEEE Pacific Visualization Symposium (PacificVis 2017)
