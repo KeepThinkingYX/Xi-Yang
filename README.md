@@ -72,11 +72,12 @@ Computational Arts
 <div>
   <img src="pic/JfhZuhqQgZKzuUp1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
-    Yinan Wang, <b>Xi Yang</b>, Tsukasa Fukusato, Takeo Igarashi,
+    Yinan Wang, <b>Xi Yang</b>, Tsukasa Fukusato, Takeo Igarashi<br>
     <b><a href="https://dl.acm.org/doi/10.1145/3355056.3364575">Computational Design and Fabrication of 3D Wire Bending Art</a></b><br>
     ACM SIGGRAPH ASIA 2019 Posters
   </sub></span>
 </div>
+<br>
 <br>
 <br>
 
