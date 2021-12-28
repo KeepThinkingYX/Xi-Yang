@@ -72,6 +72,7 @@ HCL for ML
    </sub></span>
 </div>
 <br>
+<br>
 
 Geometry Processing for Lithic Materials
 <!--Visualization of Lithic Materials-->
@@ -98,7 +99,6 @@ Geometry Processing for Lithic Materials
    </sub></span>
 </div>
 <br>
-<br>
 <div>
   <img src="pic/re1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
@@ -117,6 +117,7 @@ Geometry Processing for Lithic Materials
     The Journal of Art and Science (2015)
   </sub></span>
 </div>
+<br>
 <br>
 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
