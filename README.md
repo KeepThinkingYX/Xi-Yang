@@ -2,6 +2,8 @@
 
 ## News
 
+> 2022.01.15 Our papr "A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms" will be published on Computational Visual Media (CVMJ).
+
 > 2021.10.04 Our paper "Learning English to Chinese Character: Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters.
 
 > 2021.06.01 Our paper is accepted by SIGGRAPH 2021 Posters.
@@ -47,7 +49,8 @@ Human-Computer Interaction
   <span><sub>
     <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
     <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
-    arXiv preprint, 2021 
+    <!-- arXiv preprint, 2021 -->
+    Computational Visual Media, 2022
   </sub></span>
 </div>
 <br>
