@@ -2,7 +2,7 @@
 
 ## News
 
-> 2022.01.15 Our papr "A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms" will be published on Computational Visual Media (CVMJ).
+> 2022.01.15 Our work "A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms" will be published on Computational Visual Media (CVMJ).
 
 > 2021.10.04 Our paper "Learning English to Chinese Character: Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters.
 
