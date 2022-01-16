@@ -45,7 +45,7 @@ Human-Computer Interaction
 3D Deep Learning for Medicine
 
 <div>
-  <img src="pic/details-min.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <img src="pic/details-min1.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
     <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
