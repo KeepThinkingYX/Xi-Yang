@@ -241,7 +241,7 @@ Geometry Processing for Lithic Materials
 
 ### Program Committee
 
-- International Symposium on Intelligence Design [2021](http://www.jaist.ac.jp/event/design2021/)
+- International Symposium on Intelligence Design [2021](http://www.jaist.ac.jp/event/design2021/) [2022](http://www.jaist.ac.jp/event/design2022/)
 
 ### Review
 
