@@ -247,6 +247,8 @@ Geometry Processing for Lithic Materials
 
 ### Review
 
+- IEEE Transactions on Medical Imaging
+- Neurocomputing
 - CYBERWORLDS 2021
 - NeurIPS 2021
 - International Journal of Human-Computer Studies
