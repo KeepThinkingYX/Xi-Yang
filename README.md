@@ -2,6 +2,8 @@
 
 ## News
 
+> 2022.02.24 Our work "PPW curves: a C2 interpolating spline with hyperbolic blending of rational Bezier curves" will be published in IEICE Transactions on Information and Systems.
+
 > 2022.01.18 Our work "An Empirical Study on the Effect of Quick and Careful Labeling Styles in Image Annotation" will be presented at Graphics Interface (GI) 2022.
 
 > 2022.01.15 Our work "A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms" will be published in Computational Visual Media (CVMJ).
