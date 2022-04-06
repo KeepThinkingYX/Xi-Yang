@@ -82,6 +82,17 @@ Human-Computer Interaction
 HCL for ML
 
 <div>
+  <img src="gi2022.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Chia-Ming Chang, <b>Xi Yang</b>, and Takeo Igarashi<br>
+    <b><a href="https://openreview.net/pdf?id=SDyj8aZBPrs">An Empirical Study on the Effect of Quick and Careful Labeling Styles in Image Annotation</a></b><br>
+    Graphics Interface (GI) 2022
+   </sub></span>
+</div>
+<br>
+<br>
+
+<div>
   <img src="cvprw2019/image.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Bojian Wu, Issei Sato, and Takeo Igarashi<br>
