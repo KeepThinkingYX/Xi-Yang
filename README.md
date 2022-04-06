@@ -90,8 +90,6 @@ HCL for ML
    </sub></span>
 </div>
 <br>
-<br>
-
 <div>
   <img src="cvprw2019/image.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
