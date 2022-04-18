@@ -2,6 +2,8 @@
 
 ## News
 
+> 2022.04.18 Our work "DualLabel: Secondary Labels for Challenging Image Annotation" will be presented at Graphics Interface (GI) 2022.
+
 > 2022.04.17 Our work "Fine-tuning Deep Neural Networks by Interactively Refine the 2D Latent Space of Ambiguous Images" will be presented at IJCAI 2022 as a demo paper.
 
 > 2022.02.25 Our "[2nd International Symposium on Intelligence Design (ISID 2022)](http://www.jaist.ac.jp/event/design2022/)" will be held from March 14 (Mon.) to 15 (Tue.). Wellcome to register and submit by 2/28, FREE!
