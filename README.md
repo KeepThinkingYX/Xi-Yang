@@ -14,11 +14,11 @@
 
 > 2022.01.15 Our work "A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms" will be published in Computational Visual Media (CVMJ).
 
-> 2021.10.04 Our paper "Learning English to Chinese Character: Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters.
+<!--- > 2021.10.04 Our paper "Learning English to Chinese Character: Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters. -->
 
-> 2021.06.01 Our paper is accepted by SIGGRAPH 2021 Posters.
+<!--- > 2021.06.01 Our paper is accepted by SIGGRAPH 2021 Posters. -->
 
-> 2021.01.09 Our paper is accepted by ISBI 2021.
+<!--- > 2021.01.09 Our paper is accepted by ISBI 2021. -->
 
 <!--- > 2020.09.17 Our paper is accepted by ACM SIGGRAPH ASIA 2020 Technical Communications. -->
 
