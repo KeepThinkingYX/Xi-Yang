@@ -86,6 +86,24 @@ Human-Computer Interaction
 HCL for ML
 
 <div>
+  <img src="pic/ijcai2022demos.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Jiafu Wei, Haoran Xie, Chia-Ming Chang, <b>Xi Yang</b><br>
+    <b><a href=" ">Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images</a></b><br>
+    IJCAI 2022 Demos
+   </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/gi2022dual.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Chia-Ming Chang, Yi He, <b>Xi Yang</b>, Haoran Xie, and Takeo Igarashi<br>
+    <b><a href="https://openreview.net/forum?id=rrBz2lFETzq">DualLabel: Secondary Labels for Challenging Image Annotation</a></b><br>
+    Graphics Interface (GI) 2022
+   </sub></span>
+</div>
+<br>
+<div>
   <img src="pic/gi2022.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     Chia-Ming Chang, <b>Xi Yang</b>, and Takeo Igarashi<br>
@@ -107,6 +125,15 @@ HCL for ML
 
 Computational Arts
 
+<div>
+  <img src="pic/IEICE2022.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Seung-Tak Noh, Hiroki Harada, <b>Xi Yang</b>, Tsukasa Fukusato, and Takeo Igarashi<br>
+    <b><a href="">PPW curves: a C2 interpolating spline with hyperbolic blending of rational Bezier curves</a></b><br>
+    IEICE Transactions on Information and Systems
+  </sub></span>
+</div>
+<br>
 <div>
   <img src="pic/sa21posters-27-fig1.jpg" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
