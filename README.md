@@ -2,7 +2,7 @@
 
 ## News
 
-> 2022.06.04 Our work "HiVideo: Hierarchical Browsing Interface for Educational Videos" will be presented at Siggraph 2022 as a poster.
+> 2022.06.04 Our work "HiVideo: Hierarchical Browsing Interface for Educational Videos" will be presented at SIGGRAPH 2022 as a poster.
 
 > 2022.06.03 Our work "Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch" will be presented at MICCAI 2022.
 
