@@ -2,6 +2,10 @@
 
 ## News
 
+> 2022.06.04 Our work "HiVideo: Hierarchical Browsing Interface for Educational Videos" will be presented at Siggraph 2022 as a poster.
+
+> 2022.06.03 Our work "Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch" will be presented at MICCAI 2022.
+
 > 2022.04.18 Our work "DualLabel: Secondary Labels for Challenging Image Annotation" will be presented at Graphics Interface (GI) 2022.
 
 > 2022.04.17 Our work "Fine-tuning Deep Neural Networks by Interactively Refine the 2D Latent Space of Ambiguous Images" will be presented at IJCAI 2022 as a demo paper.
