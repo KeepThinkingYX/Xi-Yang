@@ -59,6 +59,15 @@ Human-Computer Interaction
 3D Deep Learning for Medicine
 
 <div>
+  <img src="pic/miccai2022.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Ding Xia, <b>Xi Yang</b>, Oliver van Kaick, Taichi Kin, and Takeo Igarashi<br>
+    <b><a href=" ">Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch Mapping</a></b><br>
+    MICCAI, 2022
+  </sub></span>
+</div>
+<br>
+<div>
   <img src="pic/details-min1.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
