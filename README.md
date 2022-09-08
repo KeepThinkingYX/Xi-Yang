@@ -2,6 +2,10 @@
 
 ## News
 
+> 2022.09.08 Received project support from the Young Scientists Fund of the National Natural Science Foundation of China.
+
+> 2022.06.22 Supported by the "Lixin Outstanding Young Teacher Training Program" of Jilin University.
+
 > 2022.06.04 Our work "HiVideo: Hierarchical Browsing Interface for Educational Videos" will be presented at SIGGRAPH 2022 as a poster.
 
 > 2022.06.03 Our work "Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch" will be presented at MICCAI 2022.
@@ -17,6 +21,8 @@
 > 2022.01.18 Our work "An Empirical Study on the Effect of Quick and Careful Labeling Styles in Image Annotation" will be presented at Graphics Interface (GI) 2022.
 
 > 2022.01.15 Our work "A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms" will be published in Computational Visual Media (CVMJ).
+
+> 2021.11.25 Received project support from the "Interdisciplinary Integration and Innovation" project of Jilin University.
 
 <!--- > 2021.10.04 Our paper "Learning English to Chinese Character: Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters. -->
 
