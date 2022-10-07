@@ -68,7 +68,7 @@ Human-Computer Interaction
   <img src="pic/miccai2022.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     Ding Xia, <b>Xi Yang</b>, Oliver van Kaick, Taichi Kin, and Takeo Igarashi<br>
-    <b><a href=" ">Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch Mapping</a></b><br>
+    <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16446-0_25">Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch Mapping</a></b><br>
     MICCAI, 2022
   </sub></span>
 </div>
