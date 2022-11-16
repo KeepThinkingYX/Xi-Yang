@@ -102,7 +102,7 @@ Human-Computer Interaction
 </div>
 <br>
   
-HCL for ML
+HCI for ML
 
 <div>
   <img src="pic/ijcai2022demos.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
