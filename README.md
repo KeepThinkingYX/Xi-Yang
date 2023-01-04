@@ -2,6 +2,8 @@
 
 ## News
 
+> 2023.01.04 Our work "[Efficient Human-in-the-loop System for Guiding DNNs Attention](https://arxiv.org/abs/2206.05981)" will be presented at IUI 2023.
+
 > 2022.09.08 Received project support from the Young Scientists Fund of the National Natural Science Foundation of China.
 
 > 2022.06.22 Supported by the "Lixin Outstanding Young Teacher Training Program" of Jilin University.
