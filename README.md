@@ -107,6 +107,15 @@ Human-Computer Interaction
 HCI for ML
 
 <div>
+  <img src="pic/IUI2023.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Yi He, <b>Xi Yang</b>, Chia-Ming Chang, Haoran Xie, Takeo Igarashi<br>
+    <b><a href="https://arxiv.org/abs/2206.05981">Efficient Human-in-the-loop System for Guiding DNNs Attention</a></b><br>
+    IUI 2023
+   </sub></span>
+</div>
+<br>
+<div>
   <img src="pic/ijcai2022demos.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     Jiafu Wei, Haoran Xie, Chia-Ming Chang, <b>Xi Yang</b><br>
