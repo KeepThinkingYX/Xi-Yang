@@ -2,6 +2,8 @@
 
 ## News
 
+> 2023.02.28 Our work "Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph" and "Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words" will be presented at CVPR 2023.
+
 > 2023.01.04 Our work "[Efficient Human-in-the-loop System for Guiding DNNs Attention](https://arxiv.org/abs/2206.05981)" will be presented at IUI 2023.
 
 > 2022.09.08 Received project support from the Young Scientists Fund of the National Natural Science Foundation of China.
@@ -64,6 +66,37 @@ Human-Computer Interaction
 
 ## Research Topics
 
+* Corresponding author
+
+Visual intelligent & Archeology
+
+<div>
+  <img src="pic/ding.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, <b>Xi Yang</b>, Chuntao Li*<br>
+    <b><a href=""> Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph</a></b><br>
+    CVPR, 2023
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/shape_text.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Chuan Tang, <b>Xi Yang<sup>*</sup> </b>, Bojian Wu, Zhizhong Han, Yi Chang*<br>
+    <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16446-0_25">Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch Mapping</a></b><br>
+    MICCAI, 2022
+  </sub></span>
+</div>
+<br>
+<div>
+  <img src="pic/SpaceEditing.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, <b>Xi Yang</b><br>
+    <b><a href="SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing</a></b><br>
+    arXiv preprint, 2021
+  </sub></span>
+</div>
+
 3D Deep Learning for Medicine
 
 <div>
@@ -109,7 +142,7 @@ HCI for ML
 <div>
   <img src="pic/IUI2023.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
-    Yi He, <b>Xi Yang</b>, Chia-Ming Chang, Haoran Xie, Takeo Igarashi<br>
+    Yi He, <b>Xi Yang<sup>*</sup> </b>, Chia-Ming Chang, Haoran Xie, Takeo Igarashi<br>
     <b><a href="https://arxiv.org/abs/2206.05981">Efficient Human-in-the-loop System for Guiding DNNs Attention</a></b><br>
     IUI 2023
    </sub></span>
