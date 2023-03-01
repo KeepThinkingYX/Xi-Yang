@@ -73,7 +73,7 @@ Visual intelligent & Archeology
 <div>
   <img src="pic/ding.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
-    Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, <b>Xi Yang</b>, Chuntao Li*<br>
+    Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, <b>Xi Yang*</b>, Chuntao Li*<br>
     <b><a href=""> Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph</a></b><br>
     CVPR, 2023
   </sub></span>
@@ -83,19 +83,20 @@ Visual intelligent & Archeology
   <img src="pic/shape_text.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     Chuan Tang, <b>Xi Yang<sup>*</sup> </b>, Bojian Wu, Zhizhong Han, Yi Chang*<br>
-    <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16446-0_25">Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch Mapping</a></b><br>
-    MICCAI, 2022
+    <b><a href=""> Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words</a></b><br>
+    CVPR, 2023
   </sub></span>
 </div>
 <br>
 <div>
   <img src="pic/SpaceEditing.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
-    Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, <b>Xi Yang</b><br>
-    <b><a href="SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing</a></b><br>
-    arXiv preprint, 2021
+    Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, <b>Xi Yang*</b><br>
+    <b><a href="https://arxiv.org/abs/2212.04065"> SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing</a></b><br>
+    arXiv preprint, 2023
   </sub></span>
 </div>
+<br>
 
 3D Deep Learning for Medicine
 
