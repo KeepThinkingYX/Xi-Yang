@@ -66,7 +66,7 @@ Human-Computer Interaction
 
 ## Research Topics
 
-* Corresponding author
+<b>* Corresponding author</b>
 
 Visual intelligent & Archeology
 
