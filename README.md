@@ -2,6 +2,8 @@
 
 ## News
 
+> 2023.03.14 Our work "[SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices]()" will be presented at MobileHCI 2023.
+
 > 2023.02.28 Our work "Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph" and "Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words" will be presented at CVPR 2023.
 
 > 2023.01.04 Our work "[Efficient Human-in-the-loop System for Guiding DNNs Attention](https://arxiv.org/abs/2206.05981)" will be presented at IUI 2023.
@@ -12,11 +14,11 @@
 
 > 2022.06.04 Our work "HiVideo: Hierarchical Browsing Interface for Educational Videos" will be presented at SIGGRAPH 2022 as a poster.
 
-> 2022.06.03 Our work "Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch" will be presented at MICCAI 2022.
+<!--- > 2022.06.03 Our work "Data-driven Multi-Modal Partial Medical Image Preregistration by Template Space Patch" will be presented at MICCAI 2022. -->
 
-> 2022.04.18 Our work "DualLabel: Secondary Labels for Challenging Image Annotation" will be presented at Graphics Interface (GI) 2022.
+<!--- > 2022.04.18 Our work "DualLabel: Secondary Labels for Challenging Image Annotation" will be presented at Graphics Interface (GI) 2022. -->
 
-> 2022.04.17 Our work "Fine-tuning Deep Neural Networks by Interactively Refine the 2D Latent Space of Ambiguous Images" will be presented at IJCAI 2022 as a demo paper.
+<!--- > 2022.04.17 Our work "Fine-tuning Deep Neural Networks by Interactively Refine the 2D Latent Space of Ambiguous Images" will be presented at IJCAI 2022 as a demo paper. -->
 
 <!--- > 2022.02.25 Our "[2nd International Symposium on Intelligence Design (ISID 2022)](http://www.jaist.ac.jp/event/design2022/)" will be held from March 14 (Mon.) to 15 (Tue.). Wellcome to register and submit by 2/28, FREE! -->
 
@@ -140,6 +142,15 @@ Visual intelligent & Archeology
   
 HCI for ML
 
+<div>
+  <img src="pic/mobilehci2023.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
+  <span><sub>
+    Yi Tang, Chia-Ming Chang, <b>Xi Yang</b> Takeo Igarashi<br>
+    <b><a href="https://arxiv.org/abs/2206.05981">Efficient Human-in-the-loop System for Guiding DNNs Attention</a></b><br>
+    MobileHCI 2023
+   </sub></span>
+</div>
+<br>
 <div>
   <img src="pic/IUI2023.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
