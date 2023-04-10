@@ -146,7 +146,7 @@ HCI for ML
   <img src="pic/mobilehci2023.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
   <span><sub>
     Yi Tang, Chia-Ming Chang, <b>Xi Yang</b>, Takeo Igarashi<br>
-    <b><a href="https://arxiv.org/abs/2206.05981">Efficient Human-in-the-loop System for Guiding DNNs Attention</a></b><br>
+    <b><a href="">SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices</a></b><br>
     MobileHCI 2023
    </sub></span>
 </div>
