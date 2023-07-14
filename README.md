@@ -366,12 +366,11 @@ Geometry Processing for Lithic Materials
 
 ### Review
 
-- NeurIPS 2023 Datasets and Benchmarks
-- NeurIPS 2022 Datasets and Benchmarks (**Outstanding Reviewers**)
+- AAAI 2023, 2024
+- NeurIPS Datasets and Benchmarks 2021, 2022 (**Outstanding Reviewers**), 2023
 - IEEE Transactions on Medical Imaging
 - Neurocomputing
 - CYBERWORLDS 2021
-- NeurIPS 2021 Datasets and Benchmarks 
 - International Journal of Human-Computer Studies
 - IEEE VIS 2019
 - GeoInformatica
