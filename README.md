@@ -2,7 +2,9 @@
 
 ## News
 
-> 2023.03.14 Our work "[SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices]()" will be presented at MobileHCI 2023.
+> 2023.09.27 Our work "[Learning multivariate empirical mode decomposition for spectral motion editing]()" will be presented at SIGGRAPH ASIA 2023 as a technical communication.
+
+> 2023.03.14 Our work "[SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3604273?af=R)" will be presented at MobileHCI 2023.
 
 > 2023.02.28 Our work "Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph" and "Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words" will be presented at CVPR 2023.
 
