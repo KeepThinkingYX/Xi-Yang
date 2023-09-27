@@ -72,7 +72,7 @@ Human-Computer Interaction
 
 <b>* Corresponding author</b>
 
-Visual intelligent & Archeology
+Visual Intelligence & Archeology
 
 <div>
   <img src="pic/ding.png" style="vertical-align:middle;" alt="image" align="left" width="150"/>
@@ -119,7 +119,7 @@ Visual intelligent & Archeology
     <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi<br>
     <b><a href="https://arxiv.org/abs/2006.16161">A Two-step Surface-based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms</a></b><br>
     <!-- arXiv preprint, 2021 -->
-    Computational Visual Media, 2022
+    Computational Visual Media (CVMJ), 2022
   </sub></span>
 </div>
 <br>
