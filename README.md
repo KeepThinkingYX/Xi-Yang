@@ -2,15 +2,17 @@
 
 ## News
 
+> 2024.01.06 Our work "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs" and "SpaceEditing: A Latent Space Editing Interface for Integrating Human Knowledge into Deep Neural Networks" will be presented at IUI 2024.
+
 > 2023.09.27 Our work "[Learning multivariate empirical mode decomposition for spectral motion editing]()" will be presented at SIGGRAPH ASIA 2023 as a technical communication.
 
 > 2023.03.14 Our work "[SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3604273?af=R)" will be presented at MobileHCI 2023.
 
 > 2023.02.28 Our work "Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph" and "Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words" will be presented at CVPR 2023.
 
-> 2023.01.04 Our work "[Efficient Human-in-the-loop System for Guiding DNNs Attention](https://arxiv.org/abs/2206.05981)" will be presented at IUI 2023.
+<!--- > 2023.01.04 Our work "[Efficient Human-in-the-loop System for Guiding DNNs Attention](https://arxiv.org/abs/2206.05981)" will be presented at IUI 2023. -->
 
-> 2022.09.08 Received project support from the Young Scientists Fund of the National Natural Science Foundation of China.
+<!--- > 2022.09.08 Received project support from the Young Scientists Fund of the National Natural Science Foundation of China. -->
 
 <!--- > 2022.06.22 Supported by the "Lixin Outstanding Young Teacher Training Program" of Jilin University. -->
 
