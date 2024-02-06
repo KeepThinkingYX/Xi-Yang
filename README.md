@@ -374,7 +374,7 @@ Geometry Processing for Lithic Materials
 
 ### Review
 
-- AAAI 2023, 2024
+- CVPR, AAAI, IJCAI
 - NeurIPS Datasets and Benchmarks 2021, 2022 (**Outstanding Reviewers**), 2023
 - IEEE Transactions on Medical Imaging
 - Neurocomputing
