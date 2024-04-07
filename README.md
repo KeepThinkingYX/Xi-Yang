@@ -2,6 +2,10 @@
 
 ## News
 
+> 2024.04.03 Our work "Detecting Oracle Bone Inscriptions Via Pseudo Category Labels" has been published in Heritage Science.
+
+> 2024.03.02 Our Late-Breaking Work, "CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout" will be presented at CHI 2024.
+
 > 2024.01.06 Our work "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs" and "SpaceEditing: A Latent Space Editing Interface for Integrating Human Knowledge into Deep Neural Networks" will be presented at IUI 2024.
 
 > 2023.09.27 Our work "[Learning multivariate empirical mode decomposition for spectral motion editing]()" will be presented at SIGGRAPH ASIA 2023 as a technical communication.
