@@ -362,6 +362,14 @@ Geometry Processing for Lithic Materials
 
 - “石器拼合的复原和可视化”，中国考古学会旧石器专业委员会系列报告之九，2023.
 
+## Media
+
+- [梧高凤必至 花香蝶自来 ——从吉林大学人工智能学院人才集聚看我省人才兴业](https://news.jlu.edu.cn/info/1211/57903.htm)
+
+- [【爱上吉林】杨溪：这里是人才的“吉”地](https://news.jlu.edu.cn/info/1211/57920.htm)
+
+- [吉金识辨·青铜器智能断代与辩类](https://news.jlu.edu.cn/info/1211/57757.htm)： [光明日报](https://epaper.gmw.cn/gmrb/html/2023-10/31/nw.D110000gmrb_20231031_3-09.htm)、[科技日报](http://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2023-10/28/content_561705.htm?div=-1)、[中国科技网](http://m.stdaily.com/index/kejixinwen/202310/55a44263ded9458ea0cd80b17760c6fa.shtml) ...
+
 ## Awards
 
 - 平成28年度, **岩手大学学長賞**
