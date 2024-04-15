@@ -304,7 +304,7 @@ Geometry Processing for Lithic Materials
 <be>
 
 ## Full Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
-
+-
 <!--- 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
 
