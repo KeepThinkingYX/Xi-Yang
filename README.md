@@ -1,6 +1,7 @@
 # Xi Yang (楊 溪)
 
 ## News
+> 2024.04.12 Our Work "Speed Labeling: Non-stop Scrolling for Fast Image Labeling" will be presented at GI 2024, and "Dynamic Labeling: A Control System for Labeling Styles in Image Annotation Tasks" will be presented at HCI International 2024.
 
 > 2024.04.03 Our work "Detecting Oracle Bone Inscriptions Via Pseudo Category Labels" has been published in Heritage Science.
 
