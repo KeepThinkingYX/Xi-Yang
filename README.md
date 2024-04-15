@@ -104,7 +104,7 @@ Visual Intelligence & Archeology
   <span><sub>
     Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, <b>Xi Yang*</b><br>
     <b><a href="https://arxiv.org/abs/2212.04065"> SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing</a></b><br>
-    arXiv preprint, 2023
+    IUI, 2024
   </sub></span>
 </div>
 <br>
@@ -387,12 +387,12 @@ Geometry Processing for Lithic Materials
 
 ### Program Committee
 
-- International Symposium on Intelligence Design [2021](http://www.jaist.ac.jp/event/design2021/) [2022](http://www.jaist.ac.jp/event/design2022/) [2023](http://www.jaist.ac.jp/event/design2023/)
+- International Symposium on Intelligence Design [2021](http://www.jaist.ac.jp/event/design2021/) [2022](http://www.jaist.ac.jp/event/design2022/) [2023](http://www.jaist.ac.jp/event/design2023/) [2024](http://www.jaist.ac.jp/event/design2024/)
 
 ### Review
 
 - CVPR, AAAI, IJCAI
-- NeurIPS Datasets and Benchmarks 2021, 2022 (**Outstanding Reviewers**), 2023
+- NeurIPS Datasets and Benchmarks 2021-, 2022 (**Outstanding Reviewers**)
 - IEEE Transactions on Medical Imaging
 - Neurocomputing
 - CYBERWORLDS 2021
