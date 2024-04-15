@@ -3,13 +3,13 @@
 ## News
 > 2024.04.12 Our Work "Speed Labeling: Non-stop Scrolling for Fast Image Labeling" will be presented at GI 2024, and "Dynamic Labeling: A Control System for Labeling Styles in Image Annotation Tasks" will be presented at HCI International 2024.  [Labeling+ Project](https://chiamingchang.com/labeling+project.html)
 
-> 2024.04.03 Our work "Detecting Oracle Bone Inscriptions Via Pseudo Category Labels" has been published in Heritage Science.
+> 2024.04.03 Our work "[Detecting Oracle Bone Inscriptions Via Pseudo Category Labels](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-024-01221-5)" has been published in Heritage Science.
 
 > 2024.03.02 Our Late-Breaking Work, "CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout" will be presented at CHI 2024.
 
 > 2024.01.06 Our work "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs" and "SpaceEditing: A Latent Space Editing Interface for Integrating Human Knowledge into Deep Neural Networks" will be presented at IUI 2024.
 
-> 2023.09.27 Our work "[Learning multivariate empirical mode decomposition for spectral motion editing]()" will be presented at SIGGRAPH ASIA 2023 as a technical communication.
+> 2023.09.27 Our work "[Learning multivariate empirical mode decomposition for spectral motion editing](https://dl.acm.org/doi/10.1145/3610543.3626174)" will be presented at SIGGRAPH ASIA 2023 as a technical communication.
 
 > 2023.03.14 Our work "[SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3604273?af=R)" will be presented at MobileHCI 2023.
 
