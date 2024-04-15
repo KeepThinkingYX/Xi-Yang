@@ -301,8 +301,11 @@ Geometry Processing for Lithic Materials
   </sub></span>
 </div>
 <br>
-<br>
+<be>
 
+## Full Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
+
+<!--- 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
 
 ### Preprint
@@ -357,6 +360,7 @@ Geometry Processing for Lithic Materials
 - **X. Yang**, K. Matsuyama, K. Konno, Y. Tokuyama: “A Feature Preserving Simplification of Point Cloud by Using Clustering Approach Based on Mean Curvature”, *NICOGRAPH 2014*, pp.9-16, 11 月 2-4 日, 2014．**優秀論文賞**
 
 - **楊渓**，松山克胤，今野晃市：“曲率に基づくグループ化による計測点群の軽量化”, *平成 25 年度第４回 芸術科学会東北支部研究会*，3 月 29 日，2014．
+-->
 
 ## Talks
 
