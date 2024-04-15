@@ -301,10 +301,10 @@ Geometry Processing for Lithic Materials
   </sub></span>
 </div>
 <br>
-<be>
+<br>
 
 ## Full Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
--
+
 <!--- 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=EefsD-EAAAAJ&hl=ja), [dblp](https://dblp.org/pid/13/1520-17.html))
 
