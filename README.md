@@ -1,6 +1,12 @@
 # Xi Yang (楊 溪)
 
 ## News
+> 2024.09.28 Our work "Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China" will be presented at Heritage Science.
+
+> 2024.09.26 Our work "Gamification of Virtual Museum Curation: A Case Study of Chinese Bronze Wares" will be presented at Heritage Science.
+
+> 2024.09.24 Our work "DiffOBI: Diffusion-based Image Generation of Oracle Bone Inscription Style Characters" will be presented at SIGGRAPH ASIA 2024 as a technical communication. 
+
 > 2024.07.02 Our Work "[PairingNet: A Learning-based Pair-searching and-matching Network for Image Fragments](https://arxiv.org/abs/2312.08704)" will be presented at ECCV 2024.
 
 > 2024.04.12 Our Work "Speed Labeling: Non-stop Scrolling for Fast Image Labeling" will be presented at GI 2024, and "Dynamic Labeling: A Control System for Labeling Styles in Image Annotation Tasks" will be presented at HCI International 2024.  [Labeling+ Project](https://chiamingchang.com/labeling+project.html)
@@ -366,6 +372,8 @@ Geometry Processing for Lithic Materials
 
 ## Talks
 
+- “融合考古知识与数据的可视计算研究”，浙江大学“数据驱动下的考古学研究”学术论坛，2024.10.
+- “考古知识与数据融合的可视计算研究”，深圳大学可视计算研究中心，2024.01.
 - “石器拼合的复原和可视化”，中国考古学会旧石器专业委员会系列报告之九，2023.
 
 ## Media
