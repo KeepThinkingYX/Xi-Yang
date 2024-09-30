@@ -1,9 +1,9 @@
 # Xi Yang (楊 溪)
 
 ## News
-> 2024.09.28 Our work "Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China" will be presented at Heritage Science.
+> 2024.09.28 Our work "Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China" will be published in Heritage Science.
 
-> 2024.09.26 Our work "Gamification of Virtual Museum Curation: A Case Study of Chinese Bronze Wares" will be presented at Heritage Science.
+> 2024.09.26 Our work "Gamification of Virtual Museum Curation: A Case Study of Chinese Bronze Wares" will be published in Heritage Science.
 
 > 2024.09.24 Our work "DiffOBI: Diffusion-based Image Generation of Oracle Bone Inscription Style Characters" will be presented at SIGGRAPH ASIA 2024 as a technical communication. 
 
