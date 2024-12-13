@@ -1,6 +1,9 @@
 # Xi Yang (楊 溪)
 
 ## News
+
+> 2024.12.05 Delighted to be invited to serve as the Tech Comms Session Chair at [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/session/?sess=sess289).
+
 > 2024.09.28 Our work "Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China" will be published in Heritage Science.
 
 > 2024.09.26 Our work "Gamification of Virtual Museum Curation: A Case Study of Chinese Bronze Wares" will be published in Heritage Science.
