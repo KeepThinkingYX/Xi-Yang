@@ -2,6 +2,8 @@
 
 ## News
 
+> 2025.02.27 Our Work "[LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model](https://meaoxixi.github.io/LineArt/)" will be presented at CVPR 2025.
+
 > 2024.12.05 Delighted to be invited to serve as the Tech Comms Session Chair at [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/session/?sess=sess289).
 
 > 2024.09.28 Our work "Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China" will be published in Heritage Science.
@@ -16,9 +18,9 @@
 
 > 2024.04.03 Our work "[Detecting Oracle Bone Inscriptions Via Pseudo Category Labels](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-024-01221-5)" has been published in Heritage Science.
 
-> 2024.03.02 Our Late-Breaking Work, "CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout" will be presented at CHI 2024.
+<!--- > 2024.03.02 Our Late-Breaking Work, "CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout" will be presented at CHI 2024. -->
 
-> 2024.01.06 Our work "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs" and "SpaceEditing: A Latent Space Editing Interface for Integrating Human Knowledge into Deep Neural Networks" will be presented at IUI 2024.
+<!--- > 2024.01.06 Our work "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs" and "SpaceEditing: A Latent Space Editing Interface for Integrating Human Knowledge into Deep Neural Networks" will be presented at IUI 2024. -->
 
 <!--- > 2023.09.27 Our work "[Learning multivariate empirical mode decomposition for spectral motion editing](https://dl.acm.org/doi/10.1145/3610543.3626174)" will be presented at SIGGRAPH ASIA 2023 as a technical communication. -->
 
@@ -404,7 +406,8 @@ Geometry Processing for Lithic Materials
 
 ### Review
 
-- CVPR, AAAI, IJCAI
+- CVPR, AAAI, IJCAI, ICCV, SIGGPRAPH
+- Heritage Science 
 - NeurIPS Datasets and Benchmarks 2021-, 2022 (**Outstanding Reviewers**)
 - IEEE Transactions on Medical Imaging
 - Neurocomputing
