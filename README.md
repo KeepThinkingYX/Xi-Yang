@@ -2,6 +2,10 @@
 
 ## News
 
+> 2025.08.10 Our Work "JoruriPuppet: Learning Tempo-Changing Mechanisms Beyond the Beat for Music-to-Motion Generation with Expressive Metrics" will be presented at SIGGRAPH ASIA 2025.
+
+> 2025.06.25 Our Work "[Clustering-based feature representation learning for Oracle Bone Inscriptions detection](https://www.nature.com/articles/s40494-025-01850-4)" is accepted by Heritage Science.
+
 > 2025.02.27 Our Work "[LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model](https://meaoxixi.github.io/LineArt/)" will be presented at CVPR 2025.
 
 > 2024.12.05 Delighted to be invited to serve as the Tech Comms Session Chair at [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/session/?sess=sess289).
