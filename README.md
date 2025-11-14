@@ -2,7 +2,7 @@
 
 ## News
 
-> 2025.08.10 Our Work "[Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details]()" will be presented at AAAI 2026.
+> 2025.11.09 Our Work "[Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details]()" will be presented at AAAI 2026.
 
 > 2025.08.10 Our Work "[JoruriPuppet: Learning Tempo-Changing Mechanisms Beyond the Beat for Music-to-Motion Generation with Expressive Metrics](https://www.dr-lab.org/projects/joruripuppet/)" will be presented at SIGGRAPH ASIA 2025.
 
